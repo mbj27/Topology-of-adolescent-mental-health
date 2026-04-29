@@ -1,0 +1,13 @@
+1. Data imputation and cleaning (ABCD-dataprep.Rmd)
+2. SOM and psychopathology profile development (SOM.ipynb)
+Training and validaiton of SOM
+Clustering and alternative assessment of SOM topology - psychopathology profiles
+Overlap with diagnostic burden
+Stability over follow-up time points (SOM-followup.ipynb)
+3. Resting-state fMRI PLS Analysis
+fMRI data cleaning preparation (fMRI_dataprep.ipynb)
+PLS analysis (PLS-rsFC.ipynb)
+4. Polygenic Risk Score PLS Analysis (PLS-PGR.ipynb)
+5. Edge-type Analysis - Rich, Feeder and Local connections (PLS-richclub.ipynb)
+6. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation.ipynb)
+7. Gene Ontology - g:Profiler documentation
