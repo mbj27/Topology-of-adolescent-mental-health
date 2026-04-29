@@ -1,0 +1,154 @@
+---
+title: "ABCD-datacleaning"
+output: html_document
+date: "2025-02-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages
+```{r, results = "hide", message = FALSE, warning = FALSE}
+# library
+library(tidyverse)
+library(psych)
+library(VIM)
+library(naniar)
+```
+
+```{r, results = "hide", message = FALSE, warning = FALSE}
+# Read data
+cbcl <- read.csv('mh_p_cbcl.csv')
+mania <- read.csv('mh_p_gbi.csv')
+sleep <- read.csv('ph_p_sds.csv') 
+```
+
+#Imputation using kNN
+```{r}
+cbcl_imputed <- kNN(cbcl, k = 5)
+cbcl_all <- cbcl_imputed %>% select(src_subject_id, eventname,cbcl_scr_syn_anxdep_r,cbcl_scr_syn_withdep_r,cbcl_scr_syn_somatic_r,cbcl_scr_syn_social_r,cbcl_scr_syn_thought_r,cbcl_scr_syn_attention_r,cbcl_scr_syn_rulebreak_r,cbcl_scr_syn_aggressive_r)
+gg_miss_var(cbcl_all) # check if all were successfully imputed
+```
+
+# Merging sex from other data frame
+```{r}
+demo <- read.csv("abcd_p_demo.csv") %>% select(src_subject_id,eventname,demo_sex_v2)
+
+# Fill missing sex and age values within each participant group
+demo <- demo %>%
+  group_by(src_subject_id) %>%
+  mutate(demo_sex_v2 = first(na.omit(demo_sex_v2))) %>%
+  ungroup()
+```
+
+```{r}
+#1 = male, 2 = female, 3 = intersex/male
+
+demo$eventname <- factor(demo$eventname, levels = c('baseline_year_1_arm_1', '1_year_follow_up_y_arm_1','2_year_follow_up_y_arm_1','3_year_follow_up_y_arm_1','4_year_follow_up_y_arm_1'), labels = c('baseline','1_year', '2_year', '3_year','4_year'))
+
+cbcl_all$eventname <- factor(cbcl_all$eventname, levels = c('baseline_year_1_arm_1', '1_year_follow_up_y_arm_1','2_year_follow_up_y_arm_1','3_year_follow_up_y_arm_1','4_year_follow_up_y_arm_1'), labels = c('baseline','1_year', '2_year', '3_year','4_year'))
+
+cbcl_all <- cbcl_all %>% inner_join(demo, by = c("src_subject_id","eventname"))
+```
+
+
+# Mania scale - imputation
+
+```{r}
+library(VIM)
+mania_imputed <- kNN(mania, k = 5)
+mania_all <- mania_imputed %>% select(1:13)
+gg_miss_var(mania)
+gg_miss_var(mania_all)
+```
+
+# Sleep scale - imputation
+
+```{r}
+library(VIM)
+sleep_imputed <- kNN(sleep, k = 5)
+sleep_all <- sleep_imputed %>% select(1:29)
+gg_miss_var(sleep)
+gg_miss_var(sleep_all)
+```
+
+# Harmonizing Likert scales
+# Mania
+```{r}
+# Define transformation functions based on Chakrabartty (2020) recommendations for harmonizing likert scales
+convert_to_equidistant <- function(x, max_scale) {
+  (x - min(x, na.rm=T)) / (max(x, na.rm=T) - min(x, na.rm=T)) * (max_scale - 1)
+}
+
+z_score_transform <- function(x) {
+  (x - mean(x, na.rm = TRUE)) / sd(x, na.rm = TRUE)
+}
+
+rescale_to_0_2 <- function(x) {
+  (x - min(x, na.rm = TRUE)) / (max(x, na.rm = TRUE) - min(x, na.rm = TRUE)) * 2
+}
+
+# Unified scaling and summation for Mania items
+mania_selected <- mania_all %>%
+  mutate(across(starts_with("gen_child_behav"), 
+                ~ rescale_to_0_2(z_score_transform(convert_to_equidistant(.x, 3))),
+                .names = "{.col}_final")) %>%
+  rowwise() %>%
+  mutate(Mania_Total = sum(c_across(ends_with("_final")), na.rm = TRUE)) %>%
+  ungroup() %>%
+  select(src_subject_id, eventname, Mania_Total)
+
+head(mania_selected)
+```
+
+# Harmonizing Likert scales
+# Sleep
+```{r}
+sleep_selected <- sleep_all %>%
+  mutate(across(starts_with("sleepdisturb"), 
+                ~ rescale_to_0_2(z_score_transform(convert_to_equidistant(.x, 3))),
+                .names = "{.col}_final")) %>%
+  rowwise() %>%
+  # Summing specific dimensions as per your original selection
+  mutate(sds_p_ss_dims_final = sum(c(sleepdisturb1_p_final, sleepdisturb2_p_final, 
+                                    sleepdisturb3_p_final, sleepdisturb4_p_final, 
+                                    sleepdisturb5_p_final, sleepdisturb10_p_final, 
+                                    sleepdisturb11_p_final), na.rm = TRUE)) %>%
+  ungroup() %>%
+  select(src_subject_id, eventname, sds_p_ss_dims_final)
+
+head(sleep_selected)
+```
+
+# NA's imputed, items scaled to 0-2 to match CBCL, sums recalculated
+
+#rename eventname labels
+```{r}
+mania_selected$eventname <- factor(mania_selected$eventname, levels = c('baseline_year_1_arm_1', '1_year_follow_up_y_arm_1','2_year_follow_up_y_arm_1','3_year_follow_up_y_arm_1','4_year_follow_up_y_arm_1'), labels = c('baseline','1_year', '2_year', '3_year','4_year'))
+
+sleep_selected$eventname <- factor(sleep_selected$eventname, levels = c('baseline_year_1_arm_1', '1_year_follow_up_y_arm_1','2_year_follow_up_y_arm_1','3_year_follow_up_y_arm_1','4_year_follow_up_y_arm_1'), labels = c('baseline','1_year', '2_year', '3_year','4_year'))
+```
+
+```{r}
+#save as new csv for direct import to networks
+#write.csv(cbcl_all, "cbcl_clean.csv")
+#write.csv(mania_selected, "mania_cleaned.csv")
+#write.csv(sleep_selected, "sleep_cleaned.csv")
+```
+
+```{r}
+# Merge all domains into a single master dataframe
+analysis_df <- cbcl_all %>%
+  inner_join(sleep_selected, by = c("src_subject_id", "eventname")) %>%
+  inner_join(mania_selected, by = c("src_subject_id", "eventname"))
+
+analysis_df_baseline <- analysis_df %>%
+  filter(eventname == "baseline")
+
+# Final verification and export
+#print(head(analysis_df))
+#write.csv(analysis_df, "baseline_all_gen.csv", row.names = FALSE)
+```
+
+
