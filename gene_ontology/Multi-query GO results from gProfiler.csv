@@ -1,0 +1,802 @@
+source,term_name,term_id,term_size,effective_domain_size,highlighted,adjusted_p_value__ABAGEN,query_size__ABAGEN,intersection_size__ABAGEN,adjusted_p_value__GWAS,query_size__GWAS,intersection_size__GWAS,sig for both abagen and gwas
+GO:BP,nervous system development,GO:0007399,2604,21026,"false,true",2.41E-11,1430,274,4.09E-18,424,126,TRUE
+GO:BP,anatomical structure development,GO:0048856,5997,21026,"false,false",2.49E-09,1430,524,3.39E-14,424,203,TRUE
+GO:BP,synapse organization,GO:0050808,563,21026,"false,false",1.96E-06,1430,76,5.06E-14,424,48,TRUE
+GO:BP,developmental process,GO:0032502,6553,21026,"false,false",2.67E-09,1430,564,6.71E-14,424,214,TRUE
+GO:BP,multicellular organism development,GO:0007275,4727,21026,"false,false",2.49E-09,1430,430,1.40E-13,424,170,TRUE
+GO:BP,neurogenesis,GO:0022008,1771,21026,"false,false",3.52E-05,1430,175,1.40E-13,424,90,TRUE
+GO:BP,system development,GO:0048731,4053,21026,"false,false",7.50E-10,1430,382,1.48E-13,424,153,TRUE
+GO:BP,generation of neurons,GO:0048699,1536,21026,"false,false",0.000486617,1430,149,5.50E-13,424,81,TRUE
+GO:BP,cell junction organization,GO:0034330,834,21026,"false,false",3.97E-05,1430,96,1.80E-11,424,54,TRUE
+GO:BP,neuron differentiation,GO:0030182,1451,21026,"false,false",0.001068451,1430,140,1.80E-11,424,75,TRUE
+GO:BP,neuron development,GO:0048666,1177,21026,"false,false",5.18E-05,1430,125,5.57E-11,424,65,TRUE
+GO:BP,cell morphogenesis,GO:0000902,996,21026,"false,false",0.00042786,1430,105,4.77E-10,424,57,TRUE
+GO:BP,regulation of synapse organization,GO:0050807,309,21026,"false,false",0.020879837,1430,37,4.97E-10,424,30,TRUE
+GO:BP,regulation of synapse structure or activity,GO:0050803,316,21026,"false,false",0.027738311,1430,37,8.21E-10,424,30,TRUE
+GO:BP,neuron projection development,GO:0031175,1023,21026,"false,false",0.00018916,1430,109,1.13E-09,424,57,TRUE
+GO:BP,trans-synaptic signaling,GO:0099537,781,21026,"false,false",7.86E-05,1430,90,2.18E-09,424,48,TRUE
+GO:BP,multicellular organismal process,GO:0032501,7322,21026,"false,false",7.65E-09,1430,616,2.67E-09,424,215,TRUE
+GO:BP,cell development,GO:0048468,2876,21026,"false,false",2.58E-05,1430,263,2.67E-09,424,110,TRUE
+GO:BP,regulation of biological process,GO:0050789,12336,21026,"false,false",2.19E-08,1430,955,4.44E-09,424,314,TRUE
+GO:BP,chemical synaptic transmission,GO:0007268,775,21026,"false,false",0.000100252,1430,89,4.44E-09,424,47,TRUE
+GO:BP,anterograde trans-synaptic signaling,GO:0098916,775,21026,"false,false",0.000100252,1430,89,4.44E-09,424,47,TRUE
+GO:BP,synapse assembly,GO:0007416,259,21026,"false,false",0.085748591,1430,29,4.54E-09,424,26,FALSE
+GO:BP,synaptic signaling,GO:0099536,807,21026,"false,false",2.04E-05,1430,95,4.77E-09,424,48,TRUE
+GO:BP,cell differentiation,GO:0030154,4437,21026,"false,false",3.97E-05,1430,379,5.03E-09,424,148,TRUE
+GO:BP,cellular developmental process,GO:0048869,4438,21026,"false,false",3.99E-05,1430,379,5.03E-09,424,148,TRUE
+GO:BP,regulation of cellular process,GO:0050794,11946,21026,"false,false",1.41E-07,1430,923,5.86E-09,424,306,TRUE
+GO:BP,regulation of plasma membrane bounded cell projection organization,GO:0120035,642,21026,"false,false",0.064028277,1430,62,1.54E-08,424,41,FALSE
+GO:BP,regulation of cell projection organization,GO:0031344,658,21026,"false,false",0.069108198,1430,63,3.14E-08,424,41,FALSE
+GO:BP,biological regulation,GO:0065007,12743,21026,"false,false",1.90E-09,1430,989,3.44E-08,424,318,TRUE
+GO:BP,regulation of cellular component organization,GO:0051128,2433,21026,"false,false",4.13E-07,1430,239,5.01E-08,424,94,TRUE
+GO:BP,anatomical structure morphogenesis,GO:0009653,2713,21026,"false,false",3.97E-05,1430,249,6.62E-08,424,101,TRUE
+GO:BP,plasma membrane bounded cell projection organization,GO:0120036,1588,21026,"false,false",0.020631555,1430,141,6.62E-08,424,70,TRUE
+GO:BP,cell projection organization,GO:0030030,1631,21026,"false,false",0.011149721,1430,147,8.00E-08,424,71,TRUE
+GO:BP,regulation of neuron projection development,GO:0010975,446,21026,"false,false",0.014941329,1430,50,9.33E-08,424,32,TRUE
+GO:BP,positive regulation of biological process,GO:0048518,6264,21026,"false,false",2.39E-05,1430,514,1.11E-07,424,185,TRUE
+GO:BP,central nervous system development,GO:0007417,1061,21026,"false,false",0.00398523,1430,105,1.53E-07,424,53,TRUE
+GO:BP,cell projection morphogenesis,GO:0048858,681,21026,"false,false",8.09E-05,1430,81,2.24E-07,424,40,TRUE
+GO:BP,neuron projection morphogenesis,GO:0048812,660,21026,"false,false",4.90E-05,1430,80,2.98E-07,424,39,TRUE
+GO:BP,positive regulation of cellular process,GO:0048522,5920,21026,"false,false",2.56E-05,1430,489,4.10E-07,424,175,TRUE
+GO:BP,cell junction assembly,GO:0034329,503,21026,"false,false",0.245862578,1430,45,4.10E-07,424,33,FALSE
+GO:BP,plasma membrane bounded cell projection morphogenesis,GO:0120039,676,21026,"false,false",0.000109219,1430,80,5.39E-07,424,39,TRUE
+GO:BP,cell morphogenesis involved in neuron differentiation,GO:0048667,599,21026,"false,false",6.08E-05,1430,74,7.44E-07,424,36,TRUE
+GO:BP,brain development,GO:0007420,754,21026,"false,false",0.051328463,1430,72,1.10E-06,424,41,FALSE
+GO:BP,regulation of developmental process,GO:0050793,2457,21026,"false,false",0.042555635,1430,203,1.27E-06,424,90,TRUE
+GO:BP,regulation of cell communication,GO:0010646,3486,21026,"false,false",8.05E-08,1430,326,1.32E-06,424,116,TRUE
+GO:BP,regulation of biological quality,GO:0065008,2947,21026,"false,false",8.18E-06,1430,272,1.89E-06,424,102,TRUE
+GO:BP,modulation of chemical synaptic transmission,GO:0050804,513,21026,"false,false",0.002143433,1430,60,2.01E-06,424,32,TRUE
+GO:BP,regulation of trans-synaptic signaling,GO:0099177,514,21026,"false,false",0.002227592,1430,60,2.06E-06,424,32,TRUE
+GO:BP,regulation of signaling,GO:0023051,3478,21026,"false,false",1.27E-07,1430,324,2.06E-06,424,115,TRUE
+GO:BP,head development,GO:0060322,806,21026,"false,false",0.082367894,1430,74,2.09E-06,424,42,FALSE
+GO:BP,negative regulation of cellular process,GO:0048523,5629,21026,"false,false",0.082644221,1430,425,2.53E-06,424,165,FALSE
+GO:BP,negative regulation of biological process,GO:0048519,5834,21026,"false,false",0.12938652,1430,435,3.50E-06,424,169,FALSE
+GO:BP,cell migration,GO:0016477,1534,21026,"false,false",0.273422265,1430,121,4.86E-06,424,63,FALSE
+GO:BP,cognition,GO:0050890,328,21026,"true,false",0.028768281,1430,38,5.94E-06,424,24,TRUE
+GO:BP,learning or memory,GO:0007611,282,21026,"false,false",0.061586972,1430,32,6.78E-06,424,22,FALSE
+GO:BP,telencephalon development,GO:0021537,284,21026,"false,false",0.174846288,1430,29,7.55E-06,424,22,FALSE
+GO:BP,behavior,GO:0007610,674,21026,"false,false",0.008599228,1430,71,1.08E-05,424,36,TRUE
+GO:BP,positive regulation of cellular component organization,GO:0051130,1105,21026,"false,false",0.01343256,1430,105,1.74E-05,424,49,TRUE
+GO:BP,protein localization to synapse,GO:0035418,89,21026,"false,false",0.000604518,1430,19,1.94E-05,424,12,TRUE
+GO:BP,animal organ development,GO:0048513,3085,21026,"false,false",0.091994823,1430,243,2.77E-05,424,101,FALSE
+GO:BP,axon development,GO:0061564,528,21026,"false,false",0.002491073,1430,61,3.27E-05,424,30,TRUE
+GO:BP,axon guidance,GO:0007411,238,21026,"false,false",0.016007747,1430,31,3.30E-05,424,19,TRUE
+GO:BP,neuron projection guidance,GO:0097485,239,21026,"false,false",0.016666431,1430,31,3.46E-05,424,19,TRUE
+GO:BP,regulation of signal transduction,GO:0009966,3034,21026,"false,false",0.000161092,1430,269,4.14E-05,424,99,TRUE
+GO:BP,cell motility,GO:0048870,1793,21026,"false,false",0.299211283,1430,139,4.70E-05,424,67,FALSE
+GO:BP,protein modification process,GO:0036211,2846,21026,"false,true",1.91E-06,1430,268,5.01E-05,424,94,TRUE
+GO:BP,developmental growth,GO:0048589,663,21026,"false,false",0.148580117,1430,60,5.27E-05,424,34,FALSE
+GO:BP,negative regulation of signaling,GO:0023057,1435,21026,"false,false",0.163828341,1430,118,5.27E-05,424,57,FALSE
+GO:BP,regulation of localization,GO:0032879,2029,21026,"false,false",8.05E-08,1430,210,5.28E-05,424,73,TRUE
+GO:BP,negative regulation of cell communication,GO:0010648,1436,21026,"false,false",0.164727226,1430,118,5.28E-05,424,57,FALSE
+GO:BP,response to light stimulus,GO:0009416,323,21026,"false,true",0.237102899,1430,31,5.44E-05,424,22,FALSE
+GO:BP,macromolecule modification,GO:0043412,3030,21026,"false,false",7.09E-08,1430,291,6.41E-05,424,98,TRUE
+GO:BP,axonogenesis,GO:0007409,463,21026,"false,false",0.000826042,1430,57,6.41E-05,424,27,TRUE
+GO:BP,regulation of multicellular organismal process,GO:0051239,2956,21026,"false,false",0.016666431,1430,245,7.00E-05,424,96,TRUE
+GO:BP,positive regulation of cell projection organization,GO:0031346,357,21026,"false,false",0.023685471,1430,41,7.58E-05,424,23,TRUE
+GO:BP,regulation of synapse assembly,GO:0051963,165,21026,"false,false",0.513225228,1430,14,8.92E-05,424,15,FALSE
+GO:BP,negative regulation of signal transduction,GO:0009968,1326,21026,"false,false",0.302226517,1430,104,9.94E-05,424,53,FALSE
+GO:BP,central nervous system neuron differentiation,GO:0021953,215,21026,"false,false",0.555795599,1430,17,0.000121934,424,17,FALSE
+GO:BP,cell-cell signaling,GO:0007267,1342,21026,"false,false",0.000244613,1430,135,0.000138063,424,53,TRUE
+GO:BP,positive regulation of developmental process,GO:0051094,1343,21026,"false,false",0.06214237,1430,117,0.000139356,424,53,FALSE
+GO:BP,positive regulation of macromolecule metabolic process,GO:0010604,3288,21026,"false,false",0.013034219,1430,271,0.00021743,424,102,TRUE
+GO:BP,positive regulation of neuron projection development,GO:0010976,158,21026,"false,false",0.082644221,1430,20,0.000251503,424,14,FALSE
+GO:BP,regulation of RNA metabolic process,GO:0051252,3687,21026,"false,false",0.048731692,1430,292,0.000278415,424,111,TRUE
+GO:BP,learning,GO:0007612,160,21026,"false,false",0.140937913,1430,19,0.000284468,424,14,FALSE
+GO:BP,cellular response to stimulus,GO:0051716,7376,21026,"false,false",0.000705736,1430,578,0.000288652,424,193,TRUE
+GO:BP,cell communication,GO:0007154,6540,21026,"false,false",5.50E-05,1430,530,0.0002971,424,175,TRUE
+GO:BP,protein localization to cell junction,GO:1902414,119,21026,"false,false",0.000438392,1430,23,0.000305692,424,12,TRUE
+GO:BP,cell-cell adhesion via plasma-membrane adhesion molecules,GO:0098742,284,21026,"false,false",0.666885297,1430,20,0.000323084,424,19,FALSE
+GO:BP,forebrain development,GO:0030900,423,21026,"false,false",0.282422048,1430,38,0.000339438,424,24,FALSE
+GO:BP,regulation of postsynaptic membrane neurotransmitter receptor levels,GO:0099072,121,21026,"false,false",0.037615953,1430,18,0.000351523,424,12,TRUE
+GO:BP,positive regulation of metabolic process,GO:0009893,3597,21026,"false,false",0.000891961,1430,305,0.000408003,424,108,TRUE
+GO:BP,glutamate receptor signaling pathway,GO:0007215,51,21026,"false,false",0.666885297,1430,4,0.000419821,424,8,FALSE
+GO:BP,cell-cell adhesion,GO:0098609,976,21026,"false,false",0.206225546,1430,82,0.000431148,424,41,FALSE
+GO:BP,response to radiation,GO:0009314,437,21026,"false,false",0.196172263,1430,41,0.000553934,424,24,FALSE
+GO:BP,cell adhesion,GO:0007155,1530,21026,"false,false",0.241067731,1430,122,0.000561728,424,56,FALSE
+GO:BP,regulation of postsynapse organization,GO:0099175,151,21026,"false,false",0.062230467,1430,20,0.000646794,424,13,FALSE
+GO:BP,"synaptic transmission, glutamatergic",GO:0035249,109,21026,"false,false",0.585586385,1430,9,0.00067078,424,11,FALSE
+GO:BP,regulation of nucleobase-containing compound metabolic process,GO:0019219,3990,21026,"false,false",0.047390067,1430,314,0.000699714,424,116,TRUE
+GO:BP,regulation of response to stimulus,GO:0048583,3993,21026,"false,false",0.001257497,1430,333,0.000717392,424,116,TRUE
+GO:BP,signaling,GO:0023052,6515,21026,"false,false",2.39E-05,1430,532,0.00078697,424,172,TRUE
+GO:BP,response to UV,GO:0009411,155,21026,"false,false",0.531245913,1430,13,0.00081455,424,13,FALSE
+GO:BP,regulation of transcription by RNA polymerase II,GO:0006357,2578,21026,"false,false",0.156141882,1430,202,0.000837424,424,82,FALSE
+GO:BP,regulation of developmental growth,GO:0048638,310,21026,"false,false",0.289751392,1430,29,0.000952554,424,19,FALSE
+GO:BP,negative regulation of response to stimulus,GO:0048585,1680,21026,"false,false",0.360489727,1430,128,0.000992842,424,59,FALSE
+GO:BP,regulation of cell differentiation,GO:0045595,1576,21026,"false,false",0.341806698,1430,121,0.001180636,424,56,FALSE
+GO:BP,regulation of cell junction assembly,GO:1901888,263,21026,"false,false",0.588720267,1430,20,0.00129051,424,17,FALSE
+GO:BP,regulation of DNA-templated transcription,GO:0006355,3409,21026,"false,false",0.138602816,1430,263,0.00133881,424,101,FALSE
+GO:BP,regulation of primary metabolic process,GO:0080090,5390,21026,"false,false",1.39E-05,1430,453,0.001379931,424,146,TRUE
+GO:BP,receptor localization to synapse,GO:0097120,79,21026,"false,false",0.000431071,1430,18,0.001383973,424,9,TRUE
+GO:BP,regulation of macromolecule metabolic process,GO:0060255,6492,21026,"false,false",0.163301616,1430,478,0.001383973,424,170,FALSE
+GO:BP,response to abiotic stimulus,GO:0009628,1144,21026,"false,false",0.084572804,1430,100,0.00145294,424,44,FALSE
+GO:BP,regulation of gene expression,GO:0010468,5536,21026,"false,false",0.398978572,1430,395,0.001469432,424,149,FALSE
+GO:BP,protein-containing complex localization,GO:0031503,215,21026,"false,false",0.000349592,1430,34,0.001491212,424,15,TRUE
+GO:BP,regulation of RNA biosynthetic process,GO:2001141,3428,21026,"false,false",0.156141882,1430,263,0.001577859,424,101,FALSE
+GO:BP,response to stimulus,GO:0050896,8999,21026,"false,false",0.019204561,1430,672,0.001742417,424,222,TRUE
+GO:BP,regulation of cellular component biogenesis,GO:0044087,1011,21026,"false,false",0.034006105,1430,94,0.001743764,424,40,TRUE
+GO:BP,positive regulation of synapse assembly,GO:0051965,64,21026,"false,false",0.547939228,1430,6,0.00182594,424,8,FALSE
+GO:BP,neural precursor cell proliferation,GO:0061351,171,21026,"true,false",0.020641193,1430,24,0.00196576,424,13,TRUE
+GO:BP,forebrain generation of neurons,GO:0021872,84,21026,"false,false",0.696704387,1430,6,0.002085742,424,9,FALSE
+GO:BP,DNA-templated transcription,GO:0006351,3549,21026,"false,false",0.068402411,1430,279,0.002265428,424,103,FALSE
+GO:BP,transcription by RNA polymerase II,GO:0006366,2711,21026,"false,false",0.07124515,1430,218,0.002442893,424,83,FALSE
+GO:BP,regulation of macromolecule biosynthetic process,GO:0010556,5644,21026,"false,false",0.357118665,1430,406,0.00245646,424,150,FALSE
+GO:BP,regulation of system process,GO:0044057,553,21026,"false,false",0.033423609,1430,57,0.002596048,424,26,TRUE
+GO:BP,positive regulation of macromolecule biosynthetic process,GO:0010557,2593,21026,"false,false",0.050815107,1430,212,0.002596048,424,80,FALSE
+GO:BP,synaptic membrane adhesion,GO:0099560,35,21026,"false,false",0.643795561,1430,3,0.002596048,424,6,FALSE
+GO:BP,striatum development,GO:0021756,22,21026,"false,false",0.858389093,1430,1,0.002596048,424,5,FALSE
+GO:BP,locomotion,GO:0040011,1255,21026,"false,false",0.201043894,1430,103,0.002667626,424,46,FALSE
+GO:BP,cellular response to chemical stimulus,GO:0070887,2192,21026,"false,false",0.121761933,1430,176,0.002765032,424,70,FALSE
+GO:BP,positive regulation of RNA metabolic process,GO:0051254,1835,21026,"false,false",0.11718898,1430,150,0.002833781,424,61,FALSE
+GO:BP,regulation of biosynthetic process,GO:0009889,5809,21026,"false,false",0.261533812,1430,424,0.002981661,424,153,FALSE
+GO:BP,peripheral nervous system development,GO:0007422,90,21026,"false,false",0.547939228,1430,8,0.003266184,424,9,FALSE
+GO:BP,negative regulation of intracellular signal transduction,GO:1902532,662,21026,"false,false",0.666885297,1430,46,0.003266184,424,29,FALSE
+GO:BP,negative regulation of cellular component organization,GO:0051129,701,21026,"false,false",0.147380332,1430,63,0.003712845,424,30,FALSE
+GO:BP,cell population proliferation,GO:0008283,2015,21026,"false,false",0.058115216,1430,168,0.003728509,424,65,FALSE
+GO:BP,mechanosensory behavior,GO:0007638,13,21026,"false,false",1,-1,-1,0.003784112,424,4,FALSE
+GO:BP,negative regulation of organelle organization,GO:0010639,352,21026,"false,false",0.39826623,1430,30,0.00399128,424,19,FALSE
+GO:BP,positive regulation of multicellular organismal process,GO:0051240,1667,21026,"false,false",0.050716341,1430,143,0.004143016,424,56,FALSE
+GO:BP,positive regulation of nervous system development,GO:0051962,296,21026,"false,false",0.066777824,1430,33,0.00429056,424,17,FALSE
+GO:BP,regulation of locomotion,GO:0040012,1067,21026,"false,false",0.263576893,1430,87,0.004648084,424,40,FALSE
+GO:BP,forebrain neuron differentiation,GO:0021879,75,21026,"false,false",0.629494144,1430,6,0.004796487,424,8,FALSE
+GO:BP,positive regulation of biosynthetic process,GO:0009891,2696,21026,"false,false",0.05435791,1430,219,0.004940343,424,81,FALSE
+GO:BP,adherens junction organization,GO:0034332,57,21026,"false,true",0.589198161,1430,5,0.005099806,424,7,FALSE
+GO:BP,growth,GO:0040007,929,21026,"true,false",0.016876741,1430,90,0.005192717,424,36,TRUE
+GO:BP,cellular response to endogenous stimulus,GO:0071495,1223,21026,"false,false",0.169051058,1430,102,0.005192717,424,44,FALSE
+GO:BP,regulation of transport,GO:0051049,1607,21026,"false,false",2.19E-06,1430,168,0.005207164,424,54,TRUE
+GO:BP,postsynapse organization,GO:0099173,246,21026,"false,false",0.00018916,1430,38,0.005275657,424,15,TRUE
+GO:BP,commitment of neuronal cell to specific neuron type in forebrain,GO:0021902,6,21026,"false,false",0.299211283,1430,2,0.005324631,424,3,FALSE
+GO:BP,positive regulation of synaptic vesicle endocytosis,GO:1900244,6,21026,"false,true",1,-1,-1,0.005324631,424,3,FALSE
+GO:BP,"regulation of synaptic transmission, glutamatergic",GO:0051966,77,21026,"false,false",0.547975233,1430,7,0.005396395,424,8,FALSE
+GO:BP,response to cocaine,GO:0042220,58,21026,"false,false",0.847857262,1430,3,0.005396395,424,7,FALSE
+GO:BP,intracellular signal transduction,GO:0035556,2965,21026,"false,false",0.000826042,1430,258,0.005598908,424,87,TRUE
+GO:BP,regulation of membrane potential,GO:0042391,458,21026,"false,false",0.00367605,1430,54,0.005655639,424,22,TRUE
+GO:BP,homophilic cell adhesion via plasma membrane adhesion molecules,GO:0007156,169,21026,"false,false",0.817924322,1430,10,0.005655639,424,12,FALSE
+GO:BP,cellular localization,GO:0051641,3661,21026,"false,false",2.41E-11,1430,359,0.005999971,424,103,TRUE
+GO:BP,regulation of synaptic plasticity,GO:0048167,223,21026,"false,false",0.081809392,1430,26,0.006054685,424,14,FALSE
+GO:BP,G protein-coupled glutamate receptor signaling pathway,GO:0007216,15,21026,"false,true",1,-1,-1,0.006054685,424,4,FALSE
+GO:BP,regulation of metabolic process,GO:0019222,7035,21026,"false,false",0.007780565,1430,542,0.006305917,424,177,TRUE
+GO:BP,pallium development,GO:0021543,198,21026,"false,false",0.286377836,1430,20,0.006464585,424,13,FALSE
+GO:BP,regulation of postsynaptic membrane potential,GO:0060078,148,21026,"false,false",0.495032577,1430,13,0.006765339,424,11,FALSE
+GO:BP,regulation of vesicle-mediated transport,GO:0060627,531,21026,"false,false",0.034797968,1430,55,0.006868279,424,24,TRUE
+GO:BP,subpallium development,GO:0021544,28,21026,"false,false",0.555795599,1430,3,0.006868279,424,5,FALSE
+GO:BP,positive regulation of nucleobase-containing compound metabolic process,GO:0045935,2036,21026,"false,false",0.084572804,1430,167,0.007257075,424,64,FALSE
+GO:BP,behavioral response to cocaine,GO:0048148,16,21026,"false,false",0.794805881,1430,1,0.007603617,424,4,FALSE
+GO:BP,protein metabolic process,GO:0019538,4721,21026,"false,false",1.61E-12,1430,448,0.00819015,424,126,TRUE
+GO:BP,response to endogenous stimulus,GO:0009719,1489,21026,"false,false",0.210485667,1430,120,0.00819015,424,50,FALSE
+GO:BP,forebrain neuron fate commitment,GO:0021877,7,21026,"false,false",0.317351108,1430,2,0.00819015,424,3,FALSE
+GO:BP,telencephalon cell migration,GO:0022029,63,21026,"false,false",0.531245913,1430,6,0.00819015,424,7,FALSE
+GO:BP,trans-synaptic signaling by trans-synaptic complex,GO:0099545,7,21026,"false,false",0.617873557,1430,1,0.00819015,424,3,FALSE
+GO:BP,memory,GO:0007613,129,21026,"false,false",0.146674246,1430,16,0.008729362,424,10,FALSE
+GO:BP,regulation of monoatomic ion transmembrane transport,GO:0034765,321,21026,"false,false",0.226558481,1430,31,0.009064857,424,17,FALSE
+GO:BP,startle response,GO:0001964,30,21026,"false,true",0.916110925,1430,1,0.009064857,424,5,FALSE
+GO:BP,positive regulation of DNA-templated transcription,GO:0045893,1697,21026,"false,false",0.199400042,1430,136,0.009404535,424,55,FALSE
+GO:BP,regulation of exocytosis,GO:0017157,181,21026,"false,false",0.520449605,1430,15,0.009412894,424,12,FALSE
+GO:BP,positive regulation of RNA biosynthetic process,GO:1902680,1699,21026,"false,false",0.199898078,1430,136,0.009568734,424,55,FALSE
+GO:BP,excitatory postsynaptic potential,GO:0060079,108,21026,"false,false",0.579103775,1430,9,0.009860066,424,9,FALSE
+GO:BP,cerebral cortex development,GO:0021987,132,21026,"false,false",0.299211283,1430,14,0.010084725,424,10,FALSE
+GO:BP,forebrain cell migration,GO:0021885,66,21026,"false,false",0.555795599,1430,6,0.010259829,424,7,FALSE
+GO:BP,calcium-ion regulated exocytosis,GO:0017156,66,21026,"false,true",0.555795599,1430,6,0.010259829,424,7,FALSE
+GO:BP,regulation of monoatomic ion transport,GO:0043269,452,21026,"false,false",0.247806625,1430,41,0.010536436,424,21,FALSE
+GO:BP,positive regulation of protein binding,GO:0032092,48,21026,"false,true",0.513225228,1430,5,0.010883222,424,6,FALSE
+GO:BP,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules,GO:0016339,48,21026,"false,true",0.780160282,1430,3,0.010883222,424,6,FALSE
+GO:BP,calcium ion transmembrane transport via high voltage-gated calcium channel,GO:0061577,18,21026,"false,true",0.590110598,1430,2,0.011089357,424,4,FALSE
+GO:BP,peptidyl-serine modification,GO:0018209,186,21026,"false,false",0.154541558,1430,21,0.01139599,424,12,FALSE
+GO:BP,multicellular organism growth,GO:0035264,160,21026,"false,false",0.089089037,1430,20,0.011449264,424,11,FALSE
+GO:BP,positive regulation of synaptic vesicle recycling,GO:1903423,8,21026,"false,false",1,-1,-1,0.011510585,424,3,FALSE
+GO:BP,regulation of vascular associated smooth muscle contraction,GO:0003056,8,21026,"false,false",1,-1,-1,0.011510585,424,3,FALSE
+GO:BP,semaphorin-plexin signaling pathway,GO:0071526,49,21026,"false,false",0.273422265,1430,7,0.011802261,424,6,FALSE
+GO:BP,cellular response to UV,GO:0034644,90,21026,"false,false",0.831137364,1430,5,0.012627217,424,8,FALSE
+GO:BP,neuron migration,GO:0001764,189,21026,"false,false",0.42075273,1430,17,0.012743169,424,12,FALSE
+GO:BP,modulation of excitatory postsynaptic potential,GO:0098815,50,21026,"false,false",0.174155767,1430,8,0.012853052,424,6,FALSE
+GO:BP,positive regulation of cell differentiation,GO:0045597,879,21026,"false,false",0.199898078,1430,75,0.012853052,424,33,FALSE
+GO:BP,cell-cell adhesion mediated by cadherin,GO:0044331,50,21026,"false,false",0.522983847,1430,5,0.012853052,424,6,FALSE
+GO:BP,positive regulation of transcription by RNA polymerase II,GO:0045944,1256,21026,"false,false",0.425206524,1430,95,0.013102538,424,43,FALSE
+GO:BP,associative learning,GO:0008306,91,21026,"false,false",0.17877758,1430,12,0.013184182,424,8,FALSE
+GO:BP,cellular response to oxygen-containing compound,GO:1901701,1182,21026,"false,false",0.197135033,1430,98,0.013560718,424,41,FALSE
+GO:BP,regulation of cell development,GO:0060284,847,21026,"false,false",0.255729671,1430,71,0.013751596,424,32,FALSE
+GO:BP,cellular response to nerve growth factor stimulus,GO:1990090,51,21026,"false,true",0.666885297,1430,4,0.013947947,424,6,FALSE
+GO:BP,regulation of multicellular organismal development,GO:2000026,1418,21026,"false,false",0.471733751,1430,105,0.014154756,424,47,FALSE
+GO:BP,calcium ion transport,GO:0006816,434,21026,"false,false",0.588720267,1430,32,0.014378417,424,20,FALSE
+GO:BP,regulation of protein localization to membrane,GO:1905475,193,21026,"false,true",0.137431487,1430,22,0.014519225,424,12,FALSE
+GO:BP,synaptic vesicle cycle,GO:0099504,221,21026,"false,false",0.210077799,1430,23,0.014611834,424,13,FALSE
+GO:BP,signal transduction,GO:0007165,6002,21026,"false,false",0.03136177,1430,460,0.014698823,424,152,TRUE
+GO:BP,heart development,GO:0007507,605,21026,"false,false",0.430170339,1430,48,0.015315674,424,25,FALSE
+GO:BP,learned vocalization behavior or vocal learning,GO:0098598,9,21026,"false,false",1,-1,-1,0.015507144,424,3,FALSE
+GO:BP,tissue development,GO:0009888,2032,21026,"false,false",0.425901546,1430,150,0.015763279,424,62,FALSE
+GO:BP,response to nitrogen compound,GO:1901698,1080,21026,"false,false",0.038260162,1430,99,0.015775067,424,38,TRUE
+GO:BP,"chemical synaptic transmission, postsynaptic",GO:0099565,118,21026,"false,false",0.471733751,1430,11,0.015977236,424,9,FALSE
+GO:BP,localization,GO:0051179,5555,21026,"true,false",1.18E-14,1430,523,0.016119154,424,142,TRUE
+GO:BP,response to oxygen-containing compound,GO:1901700,1669,21026,"false,false",0.245392887,1430,132,0.016119154,424,53,FALSE
+GO:BP,response to nerve growth factor,GO:1990089,53,21026,"false,false",0.688973714,1430,4,0.016124521,424,6,FALSE
+GO:BP,regulation of transmembrane transport,GO:0034762,443,21026,"false,false",0.10338336,1430,44,0.017492779,424,20,FALSE
+GO:BP,phosphorylation,GO:0016310,1320,21026,"false,false",0.054415602,1430,116,0.017610661,424,44,FALSE
+GO:BP,regulation of blood circulation,GO:1903522,256,21026,"false,false",0.156141882,1430,27,0.017610661,424,14,FALSE
+GO:BP,positive regulation of stem cell differentiation,GO:2000738,21,21026,"false,false",0.849571486,1430,1,0.017610661,424,4,FALSE
+GO:BP,vesicle-mediated transport in synapse,GO:0099003,257,21026,"false,false",0.160178651,1430,27,0.018191545,424,14,FALSE
+GO:BP,protein localization to postsynaptic membrane,GO:1903539,55,21026,"false,false",0.066777824,1430,10,0.019049478,424,6,FALSE
+GO:BP,negative regulation of synaptic transmission,GO:0050805,55,21026,"false,false",0.318888934,1430,7,0.019049478,424,6,FALSE
+GO:BP,protein localization to postsynaptic specialization membrane,GO:0099633,37,21026,"false,false",0.131301402,1430,7,0.019197044,424,5,FALSE
+GO:BP,neurotransmitter receptor localization to postsynaptic specialization membrane,GO:0099645,37,21026,"false,false",0.131301402,1430,7,0.019197044,424,5,FALSE
+GO:BP,cellular response to light stimulus,GO:0071482,122,21026,"false,false",0.583262,1430,10,0.019197044,424,9,FALSE
+GO:BP,spinal cord development,GO:0021510,99,21026,"false,false",0.315533593,1430,11,0.020099373,424,8,FALSE
+GO:BP,regulation of calcium-mediated signaling,GO:0050848,99,21026,"false,false",0.315533593,1430,11,0.020099373,424,8,FALSE
+GO:BP,alpha-linolenic acid metabolic process,GO:0036109,10,21026,"false,true",1,-1,-1,0.020099373,424,3,FALSE
+GO:BP,cell surface receptor signaling pathway,GO:0007166,2819,21026,"false,false",0.162894845,1430,219,0.020117999,424,80,FALSE
+GO:BP,regulation of synaptic vesicle endocytosis,GO:1900242,22,21026,"false,false",0.858389093,1430,1,0.020117999,424,4,FALSE
+GO:BP,protein localization to postsynapse,GO:0062237,56,21026,"false,false",0.07358511,1430,10,0.020142599,424,6,FALSE
+GO:BP,homeostatic process,GO:0042592,1736,21026,"true,true",0.003670086,1430,159,0.021108436,424,54,TRUE
+GO:BP,neurotransmitter secretion,GO:0007269,150,21026,"false,false",0.419346234,1430,14,0.021108436,424,10,FALSE
+GO:BP,signal release from synapse,GO:0099643,150,21026,"false,false",0.419346234,1430,14,0.021108436,424,10,FALSE
+GO:BP,calcium-mediated signaling,GO:0019722,234,21026,"false,false",0.471733751,1430,20,0.021678255,424,13,FALSE
+GO:BP,cell fate commitment,GO:0045165,297,21026,"false,false",0.86699607,1430,17,0.024047794,424,15,FALSE
+GO:BP,regulation of cell migration,GO:0030334,960,21026,"false,false",0.266280728,1430,79,0.02406376,424,34,FALSE
+GO:BP,regulation of intracellular signal transduction,GO:1902531,1953,21026,"false,false",0.01343256,1430,171,0.024067382,424,59,TRUE
+GO:BP,cellular response to stress,GO:0033554,1830,21026,"false,false",0.00055155,1430,172,0.02409422,424,56,TRUE
+GO:BP,positive regulation of response to stimulus,GO:0048584,2331,21026,"false,false",0.199898078,1430,182,0.02450821,424,68,FALSE
+GO:BP,adult behavior,GO:0030534,154,21026,"false,false",0.677108063,1430,11,0.02502954,424,10,FALSE
+GO:BP,retrograde trans-synaptic signaling by trans-synaptic protein complex,GO:0098942,3,21026,"false,false",0.471733751,1430,1,0.025227542,424,2,FALSE
+GO:BP,regulation of embryonic cell shape,GO:0016476,3,21026,"false,true",0.471733751,1430,1,0.025227542,424,2,FALSE
+GO:BP,auditory behavior,GO:0031223,11,21026,"false,false",1,-1,-1,0.025227542,424,3,FALSE
+GO:BP,membrane depolarization during atrial cardiac muscle cell action potential,GO:0098912,3,21026,"false,true",1,-1,-1,0.025227542,424,2,FALSE
+GO:BP,positive regulation of protein autoubiquitination,GO:1902499,3,21026,"false,true",1,-1,-1,0.025227542,424,2,FALSE
+GO:BP,positive regulation of endocytosis,GO:0045807,155,21026,"false,false",0.686200777,1430,11,0.025634715,424,10,FALSE
+GO:BP,cardiac muscle cell contraction,GO:0086003,81,21026,"false,true",0.014332013,1430,15,0.02592614,424,7,TRUE
+GO:BP,response to chemical,GO:0042221,3909,21026,"false,false",0.228227903,1430,293,0.026569789,424,104,FALSE
+GO:BP,protein localization,GO:0008104,2770,21026,"false,false",1.53E-07,1430,268,0.026711969,424,78,TRUE
+GO:BP,neurotransmitter transport,GO:0006836,212,21026,"false,false",0.230192248,1430,22,0.026711969,424,12,FALSE
+GO:BP,presynapse organization,GO:0099172,60,21026,"false,false",0.746813265,1430,4,0.026711969,424,6,FALSE
+GO:BP,dendrite development,GO:0016358,242,21026,"false,false",0.105173254,1430,27,0.027192413,424,13,FALSE
+GO:BP,neuroblast proliferation,GO:0007405,82,21026,"false,false",0.388359584,1430,9,0.027192413,424,7,FALSE
+GO:BP,regulation of anatomical structure size,GO:0090066,500,21026,"false,false",0.153911534,1430,47,0.027243041,424,21,FALSE
+GO:BP,myotube differentiation,GO:0014902,131,21026,"false,true",0.711334326,1430,9,0.027726097,424,9,FALSE
+GO:BP,negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,GO:0051898,61,21026,"false,false",0.862925696,1430,3,0.028393095,424,6,FALSE
+GO:BP,synaptic vesicle endocytosis,GO:0048488,83,21026,"false,false",0.299211283,1430,10,0.028730543,424,7,FALSE
+GO:BP,cellular macromolecule localization,GO:0070727,2782,21026,"false,false",8.05E-08,1430,271,0.029266858,424,78,TRUE
+GO:BP,attachment of mitotic spindle microtubules to kinetochore,GO:0051315,25,21026,"false,true",0.698783421,1430,2,0.029266858,424,4,FALSE
+GO:BP,branching morphogenesis of a nerve,GO:0048755,12,21026,"false,false",1,-1,-1,0.030817194,424,3,FALSE
+GO:BP,regulation of dendritic spine maintenance,GO:1902950,12,21026,"false,false",1,-1,-1,0.030817194,424,3,FALSE
+GO:BP,calcium ion transmembrane transport,GO:0070588,340,21026,"false,false",0.666885297,1430,24,0.031062763,424,16,FALSE
+GO:BP,macromolecule localization,GO:0033036,3228,21026,"false,false",3.82E-08,1430,308,0.031924886,424,88,TRUE
+GO:BP,regulation of cell motility,GO:2000145,1022,21026,"false,false",0.22547426,1430,85,0.03195705,424,35,FALSE
+GO:BP,regulation of cation channel activity,GO:2001257,85,21026,"false,false",0.299211283,1430,10,0.03195705,424,7,FALSE
+GO:BP,positive regulation of cell junction assembly,GO:1901890,109,21026,"false,false",0.666885297,1430,8,0.03195705,424,8,FALSE
+GO:BP,regulation of molecular function,GO:0065009,1496,21026,"false,false",2.95E-05,1430,153,0.032397232,424,47,TRUE
+GO:BP,phosphorus metabolic process,GO:0006793,2410,21026,"false,false",2.32E-06,1430,233,0.032464465,424,69,TRUE
+GO:BP,positive regulation of signal transduction,GO:0009967,1578,21026,"false,false",0.017246415,1430,141,0.032630441,424,49,TRUE
+GO:BP,intracellular signaling cassette,GO:0141124,1912,21026,"false,false",0.016092785,1430,167,0.034756938,424,57,TRUE
+GO:BP,circulatory system development,GO:0072359,1145,21026,"false,false",0.174846288,1430,96,0.034928973,424,38,FALSE
+GO:BP,positive regulation of developmental growth,GO:0048639,164,21026,"false,false",0.362736114,1430,16,0.0352973,424,10,FALSE
+GO:BP,presynaptic endocytosis,GO:0140238,87,21026,"false,false",0.308305851,1430,10,0.03551084,424,7,FALSE
+GO:BP,muscle structure development,GO:0061061,693,21026,"false,false",0.065927062,1430,66,0.03581877,424,26,FALSE
+GO:BP,locomotory behavior,GO:0007626,222,21026,"false,false",0.079184704,1430,26,0.03581877,424,12,FALSE
+GO:BP,protein phosphorylation,GO:0006468,1227,21026,"false,false",0.089660608,1430,106,0.036123365,424,40,FALSE
+GO:BP,positive regulation of cell communication,GO:0010647,1795,21026,"false,false",0.004367253,1430,163,0.036780073,424,54,TRUE
+GO:BP,regulation of monoatomic cation transmembrane transport,GO:1904062,284,21026,"false,false",0.174846288,1430,29,0.036780073,424,14,FALSE
+GO:BP,commissural neuron axon guidance,GO:0071679,13,21026,"false,false",0.033843278,1430,5,0.036882793,424,3,TRUE
+GO:BP,skeletal muscle organ development,GO:0060538,194,21026,"false,true",0.515712882,1430,16,0.036920401,424,11,FALSE
+GO:BP,nervous system process,GO:0050877,1510,21026,"false,false",0.689623787,1430,103,0.037013658,424,47,FALSE
+GO:BP,metal ion transport,GO:0030001,883,21026,"false,false",0.01365924,1430,87,0.037702429,424,31,TRUE
+GO:BP,positive regulation of peptidyl-serine phosphorylation,GO:0033138,66,21026,"false,false",0.078196439,1430,11,0.038576028,424,6,FALSE
+GO:BP,regulation of protein binding,GO:0043393,114,21026,"false,false",0.124150317,1430,15,0.039656819,424,8,FALSE
+GO:BP,protein glycosylation,GO:0006486,226,21026,"false,false",0.356125736,1430,21,0.03992276,424,12,FALSE
+GO:BP,macromolecule glycosylation,GO:0043413,226,21026,"false,false",0.356125736,1430,21,0.03992276,424,12,FALSE
+GO:BP,ventral spinal cord development,GO:0021517,46,21026,"false,false",0.48476016,1430,5,0.04046706,424,5,FALSE
+GO:BP,regulation of multicellular organism growth,GO:0040014,67,21026,"false,false",0.082644221,1430,11,0.040786591,424,6,FALSE
+GO:BP,regulation of vasoconstriction,GO:0019229,67,21026,"false,false",0.465427105,1430,7,0.040786591,424,6,FALSE
+GO:BP,regulation of cell population proliferation,GO:0042127,1685,21026,"false,false",0.136418146,1430,138,0.041086405,424,51,FALSE
+GO:BP,regulation of negative chemotaxis,GO:0050923,4,21026,"false,true",0.513225228,1430,1,0.041086405,424,2,FALSE
+GO:BP,regulation of CAMKK-AMPK signaling cascade,GO:1905289,4,21026,"false,false",1,-1,-1,0.041086405,424,2,FALSE
+GO:BP,presynaptic active zone assembly,GO:1904071,4,21026,"false,true",1,-1,-1,0.041086405,424,2,FALSE
+GO:BP,vitellogenesis,GO:0007296,4,21026,"false,true",1,-1,-1,0.041086405,424,2,FALSE
+GO:BP,phospholipase C-activating G protein-coupled glutamate receptor signaling pathway,GO:0007206,4,21026,"false,false",1,-1,-1,0.041086405,424,2,FALSE
+GO:BP,positive regulation of mesenchymal stem cell differentiation,GO:2000741,4,21026,"false,false",1,-1,-1,0.041086405,424,2,FALSE
+GO:BP,regulation of nervous system development,GO:0051960,457,21026,"false,false",0.140981546,1430,44,0.04281826,424,19,FALSE
+GO:BP,regulation of metaphase plate congression,GO:0090235,14,21026,"false,false",0.767155244,1430,1,0.04281826,424,3,FALSE
+GO:BP,negative chemotaxis,GO:0050919,47,21026,"false,false",0.767671272,1430,3,0.04281826,424,5,FALSE
+GO:BP,neuron recognition,GO:0008038,47,21026,"false,false",0.767671272,1430,3,0.04281826,424,5,FALSE
+GO:BP,regulation of receptor binding,GO:1900120,14,21026,"false,false",1,-1,-1,0.04281826,424,3,FALSE
+GO:BP,phosphate-containing compound metabolic process,GO:0006796,2407,21026,"false,false",3.18E-06,1430,232,0.043366798,424,68,TRUE
+GO:BP,positive regulation of cell development,GO:0010720,458,21026,"false,false",0.033129323,1430,49,0.043366798,424,19,TRUE
+GO:BP,negative regulation of cell migration,GO:0030336,292,21026,"false,false",0.115549638,1430,31,0.043366798,424,14,FALSE
+GO:BP,regulation of synaptic vesicle recycling,GO:1903421,29,21026,"false,false",0.746813265,1430,2,0.043689077,424,4,FALSE
+GO:BP,action potential,GO:0001508,172,21026,"false,false",0.002786708,1430,27,0.044377176,424,10,TRUE
+GO:BP,regulation of nervous system process,GO:0031644,118,21026,"false,false",0.056870854,1430,17,0.045129853,424,8,FALSE
+GO:BP,cellular response to hormone stimulus,GO:0032870,638,21026,"false,false",0.121761933,1430,59,0.045129853,424,24,FALSE
+GO:BP,negative regulation of locomotion,GO:0040013,326,21026,"false,false",0.199644134,1430,32,0.045129853,424,15,FALSE
+GO:BP,hemopoiesis,GO:0030097,976,21026,"false,false",0.317351108,1430,78,0.045129853,424,33,FALSE
+GO:BP,regeneration,GO:0031099,202,21026,"false,false",0.559419745,1430,16,0.045439142,424,11,FALSE
+GO:BP,peptidyl-serine phosphorylation,GO:0018105,174,21026,"false,false",0.10338336,1430,21,0.047300531,424,10,FALSE
+GO:BP,central nervous system neuron development,GO:0021954,94,21026,"false,false",0.199898078,1430,12,0.048042294,424,7,FALSE
+GO:BP,spinal cord motor neuron differentiation,GO:0021522,30,21026,"false,false",0.916110925,1430,1,0.048177668,424,4,FALSE
+GO:BP,muscle tissue development,GO:0060537,430,21026,"false,false",0.48609691,1430,34,0.048804663,424,18,FALSE
+GO:BP,positive regulation of signaling,GO:0023056,1796,21026,"false,false",0.005881723,1430,162,0.051642262,424,53,FALSE
+GO:BP,peptidyl-amino acid modification,GO:0018193,686,21026,"false,false",0.000497427,1430,78,0.052764617,424,25,FALSE
+GO:BP,transport along microtubule,GO:0010970,178,21026,"false,false",0.009467242,1430,26,0.052764617,424,10,FALSE
+GO:BP,microtubule-based process,GO:0007017,999,21026,"true,false",0.045471018,1430,92,0.056827334,424,33,FALSE
+GO:BP,organelle localization,GO:0051640,620,21026,"false,false",2.04E-05,1430,78,0.056948051,424,23,FALSE
+GO:BP,dendritic spine development,GO:0060996,101,21026,"false,false",0.035355142,1430,16,0.060153148,424,7,FALSE
+GO:BP,microtubule-based transport,GO:0099111,220,21026,"false,false",0.031242916,1430,28,0.06946639,424,11,FALSE
+GO:BP,establishment of localization in cell,GO:0051649,2010,21026,"false,false",1.12E-11,1430,226,0.070477488,424,57,FALSE
+GO:BP,transport,GO:0006810,4407,21026,"false,false",4.93E-13,1430,427,0.070720961,424,111,FALSE
+GO:BP,regulation of protein localization,GO:0032880,907,21026,"false,false",0.000518328,1430,97,0.073623313,424,30,FALSE
+GO:BP,cardiac muscle cell action potential,GO:0086001,81,21026,"false,false",0.000172817,1430,19,0.074921501,424,6,FALSE
+GO:BP,regulation of organelle organization,GO:0033043,1148,21026,"false,false",0.000243348,1430,119,0.075163811,424,36,FALSE
+GO:BP,establishment of localization,GO:0051234,4928,21026,"false,false",1.12E-11,1430,459,0.075269568,424,122,FALSE
+GO:BP,cardiac muscle cell action potential involved in contraction,GO:0086002,59,21026,"false,false",0.002312753,1430,14,0.081080665,424,5,FALSE
+GO:BP,dendritic spine organization,GO:0097061,83,21026,"false,false",0.037106197,1430,14,0.081080665,424,6,FALSE
+GO:BP,actin-mediated cell contraction,GO:0070252,111,21026,"false,false",0.018380843,1430,18,0.085554848,424,7,FALSE
+GO:BP,muscle system process,GO:0003012,438,21026,"true,false",0.024599961,1430,48,0.090794673,424,17,FALSE
+GO:BP,membrane depolarization during cardiac muscle cell action potential,GO:0086012,21,21026,"false,false",0.014332013,1430,7,0.09119433,424,3,FALSE
+GO:BP,cytoskeleton-dependent intracellular transport,GO:0030705,209,21026,"false,false",0.005052474,1430,30,0.107765239,424,10,FALSE
+GO:BP,monoatomic cation transport,GO:0006812,1069,21026,"false,false",0.01365924,1430,102,0.108438457,424,33,FALSE
+GO:BP,monoatomic cation transmembrane transport,GO:0098655,877,21026,"false,false",0.021098129,1430,85,0.11682484,424,28,FALSE
+GO:BP,neuron projection organization,GO:0106027,94,21026,"false,false",0.020585647,1430,16,0.119697886,424,6,FALSE
+GO:BP,macromolecule catabolic process,GO:0009057,1417,21026,"false,false",0.000115518,1430,143,0.124866518,424,41,FALSE
+GO:BP,monoatomic ion transmembrane transport,GO:0034220,1048,21026,"false,false",0.005612685,1430,103,0.127027897,424,32,FALSE
+GO:BP,regulation of peptidyl-serine phosphorylation,GO:0033135,97,21026,"false,false",0.013034219,1430,17,0.129605516,424,6,FALSE
+GO:BP,regulation of cellular localization,GO:0060341,1013,21026,"false,false",5.19E-05,1430,111,0.133352563,424,31,FALSE
+GO:BP,striated muscle contraction,GO:0006941,189,21026,"false,false",0.018100367,1430,26,0.137000831,424,9,FALSE
+GO:BP,membrane organization,GO:0061024,821,21026,"false,false",0.01343256,1430,82,0.142148798,424,26,FALSE
+GO:BP,post-translational protein modification,GO:0043687,1027,21026,"false,false",0.0366425,1430,95,0.145250469,424,31,FALSE
+GO:BP,regulation of catabolic process,GO:0009894,1040,21026,"false,false",0.009135198,1430,101,0.146150191,424,31,FALSE
+GO:BP,negative regulation of molecular function,GO:0044092,553,21026,"false,false",0.016532984,1430,59,0.146150191,424,19,FALSE
+GO:BP,regulation of receptor localization to synapse,GO:1902683,29,21026,"false,false",0.019438483,1430,8,0.146150191,424,3,FALSE
+GO:BP,membrane depolarization during action potential,GO:0086010,29,21026,"false,false",0.019438483,1430,8,0.146150191,424,3,FALSE
+GO:BP,vesicle-mediated transport,GO:0016192,1592,21026,"false,false",1.24E-06,1430,168,0.14795073,424,44,FALSE
+GO:BP,negative regulation of transport,GO:0051051,412,21026,"false,false",0.000528006,1430,53,0.148044904,424,15,FALSE
+GO:BP,regulation of organelle assembly,GO:1902115,234,21026,"false,false",0.013418057,1430,31,0.148266253,424,10,FALSE
+GO:BP,cellular component organization or biogenesis,GO:0071840,8393,21026,"false,false",0.015362636,1430,632,0.153010299,424,190,FALSE
+GO:BP,protein ubiquitination,GO:0016567,768,21026,"false,false",0.040967578,1430,74,0.156264161,424,24,FALSE
+GO:BP,protein modification by small protein conjugation or removal,GO:0070647,975,21026,"false,false",0.035355142,1430,91,0.160738319,424,29,FALSE
+GO:BP,nucleobase-containing compound catabolic process,GO:0034655,535,21026,"false,false",0.019204561,1430,57,0.161877899,424,18,FALSE
+GO:BP,cardiac muscle contraction,GO:0060048,142,21026,"false,false",0.040931429,1430,20,0.165425239,424,7,FALSE
+GO:BP,negative regulation of nucleobase-containing compound metabolic process,GO:0045934,1529,21026,"false,false",0.002436844,1430,144,0.16800003,424,42,FALSE
+GO:BP,axo-dendritic transport,GO:0008088,83,21026,"false,false",0.007110759,1430,16,0.170211926,424,5,FALSE
+GO:BP,protein dephosphorylation,GO:0006470,144,21026,"false,false",0.01343256,1430,22,0.171194075,424,7,FALSE
+GO:BP,protein polyubiquitination,GO:0000209,280,21026,"false,false",0.004929227,1430,37,0.171221545,424,11,FALSE
+GO:BP,monoatomic ion transport,GO:0006811,1282,21026,"false,false",0.003806277,1430,123,0.17346218,424,36,FALSE
+GO:BP,regulation of phosphorylation,GO:0042325,830,21026,"false,false",0.008630785,1430,84,0.182025785,424,25,FALSE
+GO:BP,regulation of phosphate metabolic process,GO:0019220,956,21026,"false,false",0.006745147,1430,95,0.183289287,424,28,FALSE
+GO:BP,regulation of phosphorus metabolic process,GO:0051174,957,21026,"false,false",0.006955096,1430,95,0.184962235,424,28,FALSE
+GO:BP,import into cell,GO:0098657,922,21026,"false,false",0.00342113,1430,94,0.191522891,424,27,FALSE
+GO:BP,negative regulation of RNA metabolic process,GO:0051253,1400,21026,"false,false",0.004367253,1430,132,0.191522891,424,38,FALSE
+GO:BP,membrane depolarization,GO:0051899,92,21026,"false,false",0.017246518,1430,16,0.191522891,424,5,FALSE
+GO:BP,protein modification by small protein conjugation,GO:0032446,853,21026,"false,false",0.021448381,1430,83,0.191522891,424,25,FALSE
+GO:BP,regulation of protein modification process,GO:0031399,1049,21026,"false,false",0.026180959,1430,98,0.191522891,424,30,FALSE
+GO:BP,inorganic cation transmembrane transport,GO:0098662,854,21026,"false,false",0.01660426,1430,84,0.192404168,424,25,FALSE
+GO:BP,negative regulation of transcription by RNA polymerase II,GO:0000122,938,21026,"false,false",0.048283463,1430,87,0.193332523,424,27,FALSE
+GO:BP,negative regulation of DNA-templated transcription,GO:0045892,1280,21026,"false,false",0.016666431,1430,118,0.196619475,424,35,FALSE
+GO:BP,inorganic ion transmembrane transport,GO:0098660,944,21026,"false,false",0.00468207,1430,95,0.20423025,424,27,FALSE
+GO:BP,regulation of protein metabolic process,GO:0051246,1855,21026,"false,false",3.24E-05,1430,182,0.204936252,424,48,FALSE
+GO:BP,regulation of protein phosphorylation,GO:0001932,779,21026,"false,false",0.021354859,1430,77,0.20667627,424,23,FALSE
+GO:BP,negative regulation of RNA biosynthetic process,GO:1902679,1296,21026,"false,false",0.02210128,1430,118,0.216519616,424,35,FALSE
+GO:BP,axonal transport,GO:0098930,69,21026,"false,false",0.022854106,1430,13,0.219496026,424,4,FALSE
+GO:BP,nitrogen compound transport,GO:0071705,1923,21026,"false,false",8.72E-08,1430,201,0.22484858,424,49,FALSE
+GO:BP,regulation of catalytic activity,GO:0050790,928,21026,"false,false",2.83E-05,1430,105,0.22484858,424,26,FALSE
+GO:BP,postsynaptic membrane organization,GO:0001941,42,21026,"false,false",0.001210998,1430,12,0.22484858,424,3,FALSE
+GO:BP,modification-dependent protein catabolic process,GO:0019941,638,21026,"false,false",0.023936197,1430,65,0.225802433,424,19,FALSE
+GO:BP,cellular component organization,GO:0016043,8184,21026,"false,false",0.035846092,1430,611,0.227638701,424,181,FALSE
+GO:BP,regulation of dendritic spine morphogenesis,GO:0061001,45,21026,"false,false",0.002390436,1430,12,0.230931527,424,3,FALSE
+GO:BP,tRNA processing,GO:0008033,139,21026,"false,false",0.033843278,1430,20,0.232872604,424,6,FALSE
+GO:BP,modification-dependent macromolecule catabolic process,GO:0043632,643,21026,"false,false",0.027738311,1430,65,0.234636279,424,19,FALSE
+GO:BP,secretion by cell,GO:0032940,854,21026,"false,false",0.021565603,1430,83,0.237922066,424,24,FALSE
+GO:BP,intracellular transport,GO:0046907,1381,21026,"false,false",4.49E-07,1430,152,0.247352491,424,36,FALSE
+GO:BP,establishment of organelle localization,GO:0051656,491,21026,"false,false",0.000109219,1430,63,0.253473018,424,15,FALSE
+GO:BP,mitotic cell cycle process,GO:1903047,745,21026,"false,false",0.000115518,1430,86,0.253473018,424,21,FALSE
+GO:BP,cytoskeleton organization,GO:0007010,1529,21026,"false,false",0.00342113,1430,143,0.253473018,424,39,FALSE
+GO:BP,proteolysis involved in protein catabolic process,GO:0051603,786,21026,"false,false",0.004411688,1430,82,0.253473018,424,22,FALSE
+GO:BP,vesicle localization,GO:0051648,219,21026,"false,false",0.009998847,1430,30,0.253473018,424,8,FALSE
+GO:BP,retrograde axonal transport,GO:0008090,22,21026,"false,false",0.017689458,1430,7,0.253473018,424,2,FALSE
+GO:BP,proteolysis,GO:0006508,1486,21026,"false,false",0.026895369,1430,132,0.253473018,424,38,FALSE
+GO:BP,dephosphorylation,GO:0016311,218,21026,"false,false",0.027738311,1430,28,0.253473018,424,8,FALSE
+GO:BP,transmembrane transport,GO:0055085,1578,21026,"false,false",0.002361501,1430,148,0.255940284,424,40,FALSE
+GO:BP,anterograde axonal transport,GO:0008089,51,21026,"false,false",0.019438483,1430,11,0.263529127,424,3,FALSE
+GO:BP,ubiquitin-dependent protein catabolic process,GO:0006511,628,21026,"false,false",0.018111615,1430,65,0.271051899,424,18,FALSE
+GO:BP,cell cycle process,GO:0022402,1280,21026,"false,false",0.027188392,1430,116,0.27565479,424,33,FALSE
+GO:BP,retrograde neuronal dense core vesicle transport,GO:1990049,5,21026,"false,false",0.005863254,1430,4,0.276725207,424,1,FALSE
+GO:BP,regulation of kinase activity,GO:0043549,431,21026,"false,false",0.01343256,1430,49,0.280809205,424,13,FALSE
+GO:BP,cell cycle,GO:0007049,1663,21026,"false,false",0.02413018,1430,146,0.29347406,424,41,FALSE
+GO:BP,cytoskeleton-dependent cytokinesis,GO:0061640,124,21026,"false,false",0.046089855,1430,18,0.296039216,424,5,FALSE
+GO:BP,protein transport,GO:0015031,1444,21026,"false,false",1.18E-05,1430,151,0.298452895,424,36,FALSE
+GO:BP,organelle transport along microtubule,GO:0072384,90,21026,"false,false",0.006017409,1430,17,0.298452895,424,4,FALSE
+GO:BP,dendritic spine morphogenesis,GO:0060997,60,21026,"false,false",0.008630785,1430,13,0.308343446,424,3,FALSE
+GO:BP,positive regulation of sodium ion transport,GO:0010765,30,21026,"false,false",0.022854106,1430,8,0.310065617,424,2,FALSE
+GO:BP,mitotic cytokinesis,GO:0000281,95,21026,"false,false",0.01053502,1430,17,0.318074824,424,4,FALSE
+GO:BP,export from cell,GO:0140352,928,21026,"false,false",0.021565603,1430,89,0.318336916,424,24,FALSE
+GO:BP,multicellular organismal movement,GO:0050879,62,21026,"false,false",0.026895369,1430,12,0.318336916,424,3,FALSE
+GO:BP,regulation of transferase activity,GO:0051338,498,21026,"false,false",0.01300628,1430,55,0.320100265,424,14,FALSE
+GO:BP,mitotic cell cycle,GO:0000278,892,21026,"true,false",0.000110097,1430,99,0.324686938,424,23,FALSE
+GO:BP,proteasomal protein catabolic process,GO:0010498,543,21026,"false,false",0.017118326,1430,58,0.324932218,424,15,FALSE
+GO:BP,protein catabolic process,GO:0030163,1030,21026,"false,false",0.004753391,1430,102,0.333272438,424,26,FALSE
+GO:BP,peptidyl-cysteine modification,GO:0018198,34,21026,"false,false",0.01443924,1430,9,0.334587447,424,2,FALSE
+GO:BP,metaphase chromosome alignment,GO:0051310,104,21026,"false,false",0.021565603,1430,17,0.347113121,424,4,FALSE
+GO:BP,actin filament-based process,GO:0030029,825,21026,"false,false",0.00218043,1430,87,0.352218319,424,21,FALSE
+GO:BP,glycolipid metabolic process,GO:0006664,106,21026,"true,false",0.013034219,1430,18,0.352218319,424,4,FALSE
+GO:BP,liposaccharide metabolic process,GO:1903509,107,21026,"false,false",0.01365924,1430,18,0.357458689,424,4,FALSE
+GO:BP,establishment of protein localization,GO:0045184,1937,21026,"false,false",0.003337572,1430,175,0.368043632,424,45,FALSE
+GO:BP,negative regulation of secretion by cell,GO:1903531,148,21026,"false,false",0.008827739,1430,23,0.368174997,424,5,FALSE
+GO:BP,adenylate cyclase-inhibiting serotonin receptor signaling pathway,GO:0007198,10,21026,"true,false",0.013034219,1430,5,0.368174997,424,1,FALSE
+GO:BP,dense core granule cytoskeletal transport,GO:0099519,11,21026,"false,false",0.018100367,1430,5,0.383637838,424,1,FALSE
+GO:BP,dense core granule transport,GO:1901950,11,21026,"false,false",0.018100367,1430,5,0.383637838,424,1,FALSE
+GO:BP,import across plasma membrane,GO:0098739,195,21026,"false,false",0.043552948,1430,25,0.385613216,424,6,FALSE
+GO:BP,peptidyl-tyrosine phosphorylation,GO:0018108,239,21026,"false,false",0.027419039,1430,30,0.397110774,424,7,FALSE
+GO:BP,organelle organization,GO:0006996,3594,21026,"false,false",5.97E-09,1430,341,0.398299343,424,79,FALSE
+GO:BP,catabolic process,GO:0009056,2639,21026,"false,false",1.38E-07,1430,258,0.398299343,424,59,FALSE
+GO:BP,peptidyl-tyrosine modification,GO:0018212,241,21026,"false,false",0.030549721,1430,30,0.398299343,424,7,FALSE
+GO:BP,establishment of chromosome localization,GO:0051303,118,21026,"false,false",0.03121829,1430,18,0.398299343,424,4,FALSE
+GO:BP,establishment of vesicle localization,GO:0051650,200,21026,"false,false",0.005405013,1430,29,0.399443209,424,6,FALSE
+GO:BP,RNA methylation,GO:0001510,81,21026,"false,false",0.031561366,1430,14,0.407440661,424,3,FALSE
+GO:BP,dendritic transport,GO:0098935,13,21026,"false,false",0.033843278,1430,5,0.411840665,424,1,FALSE
+GO:BP,regulation of translational initiation,GO:0006446,83,21026,"false,false",0.007110759,1430,16,0.414629816,424,3,FALSE
+GO:BP,negative regulation of catalytic activity,GO:0043086,293,21026,"false,false",0.016996525,1430,36,0.4220922,424,8,FALSE
+GO:BP,vesicle transport along microtubule,GO:0047496,47,21026,"false,false",0.031553341,1430,10,0.424691464,424,2,FALSE
+GO:BP,purine-containing compound metabolic process,GO:0072521,563,21026,"true,false",0.044572057,1430,57,0.425055002,424,14,FALSE
+GO:BP,chromosome localization,GO:0050000,126,21026,"false,false",0.027417394,1430,19,0.426508068,424,4,FALSE
+GO:BP,positive regulation of stem cell population maintenance,GO:1902459,48,21026,"false,false",0.01365924,1430,11,0.428502779,424,2,FALSE
+GO:BP,negative regulation of secretion,GO:0051048,168,21026,"false,false",0.017246518,1430,24,0.428502779,424,5,FALSE
+GO:BP,macromolecule methylation,GO:0043414,127,21026,"false,false",0.029413952,1430,19,0.431261003,424,4,FALSE
+GO:BP,multivesicular body sorting pathway,GO:0071985,50,21026,"false,false",0.044610949,1430,10,0.438823832,424,2,FALSE
+GO:BP,cell growth,GO:0016049,485,21026,"false,false",0.025047378,1430,52,0.445099137,424,12,FALSE
+GO:BP,nucleoside diphosphate metabolic process,GO:0009132,133,21026,"false,false",0.043552948,1430,19,0.44905715,424,4,FALSE
+GO:BP,negative regulation of protein metabolic process,GO:0051248,677,21026,"false,false",0.009467242,1430,71,0.45926739,424,16,FALSE
+GO:BP,nucleotide metabolic process,GO:0009117,493,21026,"false,false",0.032942536,1430,52,0.460238652,424,12,FALSE
+GO:BP,regulation of protein kinase activity,GO:0045859,402,21026,"false,false",0.035186184,1430,44,0.460238652,424,10,FALSE
+GO:BP,tRNA modification,GO:0006400,95,21026,"false,false",0.01053502,1430,17,0.466688649,424,3,FALSE
+GO:BP,regulation of oxidoreductase activity,GO:0051341,56,21026,"false,false",0.034159687,1430,11,0.474956762,424,2,FALSE
+GO:BP,nucleoside phosphate metabolic process,GO:0006753,646,21026,"false,false",0.011026527,1430,68,0.48535669,424,15,FALSE
+GO:BP,positive regulation of dendritic spine morphogenesis,GO:0061003,20,21026,"false,false",0.043552948,1430,6,0.491425477,424,1,FALSE
+GO:BP,tRNA wobble base modification,GO:0002097,20,21026,"false,false",0.043552948,1430,6,0.491425477,424,1,FALSE
+GO:BP,monocarboxylic acid metabolic process,GO:0032787,616,21026,"false,false",0.025499713,1430,63,0.514322421,424,14,FALSE
+GO:BP,sodium ion transport,GO:0006814,244,21026,"false,false",0.0017532,1430,35,0.522414545,424,6,FALSE
+GO:BP,regulation of peptidyl-tyrosine phosphorylation,GO:0050730,198,21026,"false,false",0.017034483,1430,27,0.522414545,424,5,FALSE
+GO:BP,oxoacid metabolic process,GO:0043436,909,21026,"false,false",0.004867541,1430,92,0.525251983,424,20,FALSE
+GO:BP,ERAD pathway,GO:0036503,109,21026,"false,false",0.0160948,1430,18,0.525545154,424,3,FALSE
+GO:BP,nucleobase-containing small molecule metabolic process,GO:0055086,673,21026,"false,false",0.023007447,1430,68,0.531675246,424,15,FALSE
+GO:BP,organic acid metabolic process,GO:0006082,915,21026,"false,false",0.005863254,1430,92,0.53288101,424,20,FALSE
+GO:BP,negative regulation of endocytosis,GO:0045806,67,21026,"false,false",0.019060113,1430,13,0.53824489,424,2,FALSE
+GO:BP,nuclear migration,GO:0007097,25,21026,"false,false",0.032165963,1430,7,0.541547357,424,1,FALSE
+GO:BP,protein maturation,GO:0051604,539,21026,"false,false",0.015254082,1430,58,0.547734598,424,12,FALSE
+GO:BP,intracellular protein transport,GO:0006886,686,21026,"false,false",0.00364998,1430,74,0.551326455,424,15,FALSE
+GO:BP,regulation of cardiac muscle cell membrane repolarization,GO:0099623,27,21026,"false,false",0.044997211,1430,7,0.560849255,424,1,FALSE
+GO:BP,late endosome to vacuole transport via multivesicular body sorting pathway,GO:0032511,27,21026,"false,false",0.044997211,1430,7,0.560849255,424,1,FALSE
+GO:BP,carboxylic acid metabolic process,GO:0019752,887,21026,"false,false",0.005193644,1430,90,0.564739272,424,19,FALSE
+GO:BP,regulation of stem cell population maintenance,GO:2000036,72,21026,"true,false",0.01365924,1430,14,0.564895397,424,2,FALSE
+GO:BP,negative regulation of phosphorylation,GO:0042326,260,21026,"false,false",0.043552948,1430,31,0.564895397,424,6,FALSE
+GO:BP,ventricular cardiac muscle cell membrane repolarization,GO:0099625,29,21026,"false,false",0.019438483,1430,8,0.578233133,424,1,FALSE
+GO:BP,RNA modification,GO:0009451,174,21026,"true,false",0.003337572,1430,27,0.593469596,424,4,FALSE
+GO:BP,translational initiation,GO:0006413,127,21026,"false,false",0.007110759,1430,21,0.599318303,424,3,FALSE
+GO:BP,sodium ion transmembrane transport,GO:0035725,176,21026,"false,false",0.00382438,1430,27,0.600650802,424,4,FALSE
+GO:BP,nucleus localization,GO:0051647,34,21026,"false,false",0.01443924,1430,9,0.617914137,424,1,FALSE
+GO:BP,regulation of translation,GO:0006417,380,21026,"false,false",0.000136262,1430,52,0.61866997,424,8,FALSE
+GO:BP,regulation of lipid biosynthetic process,GO:0046890,182,21026,"true,false",0.038024807,1430,24,0.619144157,424,4,FALSE
+GO:BP,tricarboxylic acid cycle,GO:0006099,36,21026,"true,false",0.000263358,1430,12,0.632484596,424,1,FALSE
+GO:BP,regulation of G0 to G1 transition,GO:0070316,36,21026,"false,false",0.019474467,1430,9,0.632484596,424,1,FALSE
+GO:BP,late endosome to vacuole transport,GO:0045324,37,21026,"false,false",0.022462173,1430,9,0.639616792,424,1,FALSE
+GO:BP,G0 to G1 transition,GO:0045023,38,21026,"false,false",0.026343733,1430,9,0.646922673,424,1,FALSE
+GO:BP,cardiac muscle cell membrane repolarization,GO:0099622,39,21026,"false,false",0.010587751,1430,10,0.653599604,424,1,FALSE
+GO:BP,endosome transport via multivesicular body sorting pathway,GO:0032509,41,21026,"false,false",0.014332013,1430,10,0.666335904,424,1,FALSE
+GO:BP,negative regulation of phosphorus metabolic process,GO:0010563,304,21026,"false,false",0.042612157,1430,35,0.674884956,424,6,FALSE
+GO:BP,negative regulation of phosphate metabolic process,GO:0045936,304,21026,"false,false",0.042612157,1430,35,0.674884956,424,6,FALSE
+GO:BP,membrane fission,GO:0090148,45,21026,"false,false",0.024089105,1430,10,0.688550154,424,1,FALSE
+GO:BP,translation,GO:0006412,727,21026,"false,false",0.000143932,1430,84,0.693564465,424,14,FALSE
+GO:BP,actin cytoskeleton organization,GO:0030036,729,21026,"false,false",0.028373901,1430,72,0.696442909,424,14,FALSE
+GO:BP,receptor-mediated endocytosis,GO:0006898,264,21026,"false,false",0.032200166,1430,32,0.698716383,424,5,FALSE
+GO:BP,small molecule catabolic process,GO:0044282,371,21026,"false,false",0.006696132,1430,45,0.701774053,424,7,FALSE
+GO:BP,membrane repolarization,GO:0086009,53,21026,"false,false",0.002873515,1430,13,0.728692215,424,1,FALSE
+GO:BP,organophosphate metabolic process,GO:0019637,1077,21026,"false,false",0.012936246,1430,103,0.745491927,424,20,FALSE
+GO:BP,carbohydrate catabolic process,GO:0016052,173,21026,"false,false",0.041565174,1430,23,0.745491927,424,3,FALSE
+GO:BP,carbohydrate metabolic process,GO:0005975,561,21026,"false,false",0.009955711,1430,61,0.759080658,424,10,FALSE
+GO:BP,nuclear envelope organization,GO:0006998,59,21026,"false,false",0.047397514,1430,11,0.759275318,424,1,FALSE
+GO:BP,small molecule metabolic process,GO:0044281,1776,21026,"false,false",1.37E-05,1430,178,0.772211526,424,33,FALSE
+GO:BP,cellular respiration,GO:0045333,242,21026,"false,false",0.000307178,1430,37,0.776759542,424,4,FALSE
+GO:BP,nucleoside phosphate catabolic process,GO:1901292,185,21026,"false,false",0.044841922,1430,24,0.777845528,424,3,FALSE
+GO:BP,protein folding,GO:0006457,219,21026,"false,false",0.049763507,1430,27,0.856986282,424,3,FALSE
+GO:BP,endosomal transport,GO:0016197,290,21026,"false,false",0.000290003,1430,42,0.871923601,424,4,FALSE
+GO:BP,amino acid transport,GO:0006865,164,21026,"false,false",0.04464524,1430,22,0.877018968,424,2,FALSE
+GO:BP,organophosphate catabolic process,GO:0046434,246,21026,"false,false",0.03778719,1430,30,0.900070512,424,3,FALSE
+GO:BP,organophosphate biosynthetic process,GO:0090407,619,21026,"false,false",0.038902861,1430,62,0.903659174,424,9,FALSE
+GO:BP,respiratory electron transport chain,GO:0022904,115,21026,"false,false",0.000761129,1430,22,0.924081375,424,1,FALSE
+GO:BP,aerobic respiration,GO:0009060,199,21026,"false,false",0.000187631,1430,33,0.93023524,424,2,FALSE
+GO:BP,energy derivation by oxidation of organic compounds,GO:0015980,345,21026,"false,false",0.000797094,1430,46,0.934403608,424,4,FALSE
+GO:BP,generation of precursor metabolites and energy,GO:0006091,478,21026,"false,false",0.000172817,1430,61,0.93687955,424,6,FALSE
+GO:BP,electron transport chain,GO:0022900,126,21026,"true,false",1.65E-05,1430,27,0.937891372,424,1,FALSE
+GO:BP,lipid catabolic process,GO:0016042,354,21026,"false,false",0.033129323,1430,40,0.941681335,424,4,FALSE
+GO:BP,oxidative phosphorylation,GO:0006119,146,21026,"false,false",0.003337572,1430,24,0.958722086,424,1,FALSE
+GO:BP,negative regulation of receptor internalization,GO:0002091,16,21026,"false,false",0.000349592,1430,8,1,-1,-1,FALSE
+GO:BP,ATP synthesis coupled electron transport,GO:0042773,99,21026,"false,false",0.000797094,1430,20,1,-1,-1,FALSE
+GO:BP,mitochondrial ATP synthesis coupled electron transport,GO:0042775,99,21026,"false,false",0.000797094,1430,20,1,-1,-1,FALSE
+GO:BP,aerobic electron transport chain,GO:0019646,91,21026,"false,false",0.000797094,1430,19,1,-1,-1,FALSE
+GO:BP,negative regulation of receptor-mediated endocytosis,GO:0048261,30,21026,"false,false",0.001364217,1430,10,1,-1,-1,FALSE
+GO:BP,positive regulation of actin nucleation,GO:0051127,14,21026,"true,false",0.009467242,1430,6,1,-1,-1,FALSE
+GO:BP,"mitochondrial electron transport, succinate to ubiquinone",GO:0006121,6,21026,"false,false",0.01343256,1430,4,1,-1,-1,FALSE
+GO:BP,neurofilament bundle assembly,GO:0033693,3,21026,"true,false",0.013927442,1430,3,1,-1,-1,FALSE
+GO:BP,glycolipid catabolic process,GO:0019377,21,21026,"false,false",0.014332013,1430,7,1,-1,-1,FALSE
+GO:BP,regulation of protein autophosphorylation,GO:0031952,35,21026,"false,false",0.017002307,1430,9,1,-1,-1,FALSE
+GO:BP,RNA (guanine-N7)-methylation,GO:0036265,7,21026,"false,false",0.021565603,1430,4,1,-1,-1,FALSE
+GO:BP,serine phosphorylation of STAT protein,GO:0042501,7,21026,"false,false",0.021565603,1430,4,1,-1,-1,FALSE
+GO:BP,bundle of His cell action potential,GO:0086043,7,21026,"false,false",0.021565603,1430,4,1,-1,-1,FALSE
+GO:BP,bundle of His cell to Purkinje myocyte signaling,GO:0086028,7,21026,"false,false",0.021565603,1430,4,1,-1,-1,FALSE
+GO:BP,regulation of peptidyl-serine phosphorylation of STAT protein,GO:0033139,7,21026,"true,false",0.021565603,1430,4,1,-1,-1,FALSE
+GO:BP,regulation of extrinsic apoptotic signaling pathway in absence of ligand,GO:2001239,47,21026,"true,false",0.031553341,1430,10,1,-1,-1,FALSE
+GO:BP,"mitochondrial electron transport, ubiquinol to cytochrome c",GO:0006122,13,21026,"false,false",0.033843278,1430,5,1,-1,-1,FALSE
+GO:BP,pyruvate family amino acid metabolic process,GO:0009078,13,21026,"true,false",0.033843278,1430,5,1,-1,-1,FALSE
+GO:BP,regulation of early endosome to recycling endosome transport,GO:1902954,4,21026,"false,false",0.034006105,1430,3,1,-1,-1,FALSE
+GO:BP,L-leucine metabolic process,GO:0006551,8,21026,"false,false",0.034006105,1430,4,1,-1,-1,FALSE
+GO:BP,male germ-line stem cell asymmetric division,GO:0048133,4,21026,"true,false",0.034006105,1430,3,1,-1,-1,FALSE
+GO:BP,pyrimidine nucleotide biosynthetic process,GO:0006221,33,21026,"true,false",0.037106197,1430,8,1,-1,-1,FALSE
+GO:BP,regulation of protein tyrosine kinase activity,GO:0061097,41,21026,"false,false",0.039482778,1430,9,1,-1,-1,FALSE
+GO:CC,synapse,GO:0045202,1665,22149,"false,true",4.70E-11,1494,189,7.64E-21,438,99,TRUE
+GO:CC,neuron projection,GO:0043005,1355,22149,"false,false",6.42E-12,1494,165,7.14E-17,438,81,TRUE
+GO:CC,somatodendritic compartment,GO:0036477,860,22149,"false,false",9.51E-09,1494,109,8.51E-16,438,61,TRUE
+GO:CC,cell junction,GO:0030054,2401,22149,"false,false",6.42E-12,1494,255,6.74E-15,438,109,TRUE
+GO:CC,dendrite,GO:0030425,634,22149,"false,false",9.81E-08,1494,84,9.63E-15,438,50,TRUE
+GO:CC,dendritic tree,GO:0097447,636,22149,"false,false",1.09E-07,1494,84,9.63E-15,438,50,TRUE
+GO:CC,cell projection,GO:0042995,2441,22149,"false,false",1.07E-09,1494,248,9.45E-14,438,107,TRUE
+GO:CC,postsynapse,GO:0098794,779,22149,"false,false",7.57E-08,1494,98,3.51E-13,438,53,TRUE
+GO:CC,plasma membrane bounded cell projection,GO:0120025,2323,22149,"false,false",1.40E-08,1494,233,1.01E-12,438,101,TRUE
+GO:CC,synaptic membrane,GO:0097060,454,22149,"false,false",0.005297,1494,50,1.01E-12,438,39,TRUE
+GO:CC,glutamatergic synapse,GO:0098978,602,22149,"false,false",1.77E-07,1494,80,5.54E-12,438,44,TRUE
+GO:CC,postsynaptic specialization,GO:0099572,395,22149,"false,false",0.008171972,1494,44,9.99E-10,438,32,TRUE
+GO:CC,neuron to neuron synapse,GO:0098984,410,22149,"false,false",0.049987483,1494,41,2.43E-09,438,32,TRUE
+GO:CC,postsynaptic membrane,GO:0045211,321,22149,"false,false",0.06366868,1494,33,1.47E-08,438,27,FALSE
+GO:CC,axon,GO:0030424,659,22149,"false,false",2.33E-07,1494,85,1.69E-08,438,40,TRUE
+GO:CC,asymmetric synapse,GO:0032279,373,22149,"false,false",0.03232663,1494,39,1.80E-08,438,29,TRUE
+GO:CC,presynapse,GO:0098793,641,22149,"false,false",0.000331222,1494,72,2.33E-08,438,39,TRUE
+GO:CC,postsynaptic density,GO:0014069,357,22149,"false,false",0.042024345,1494,37,2.64E-08,438,28,TRUE
+GO:CC,dendritic spine,GO:0043197,179,22149,"false,false",0.005229984,1494,25,1.09E-07,438,19,TRUE
+GO:CC,neuron spine,GO:0044309,183,22149,"false,false",0.001751456,1494,27,1.50E-07,438,19,TRUE
+GO:CC,plasma membrane region,GO:0098590,1332,22149,"false,false",0.003240773,1494,123,1.06E-06,438,57,TRUE
+GO:CC,membrane,GO:0016020,9953,22149,"false,false",1.25E-11,1494,809,1.11E-06,438,253,TRUE
+GO:CC,GABA-ergic synapse,GO:0098982,111,22149,"false,false",0.000334378,1494,21,1.23E-06,438,14,TRUE
+GO:CC,plasma membrane,GO:0005886,5866,22149,"false,false",0.013261062,1494,446,1.40E-06,438,167,TRUE
+GO:CC,cell periphery,GO:0071944,6347,22149,"false,false",0.02570857,1494,475,3.09E-06,438,176,TRUE
+GO:CC,cell body,GO:0044297,568,22149,"false,false",0.000151685,1494,67,3.34E-06,438,32,TRUE
+GO:CC,plasma membrane protein complex,GO:0098797,725,22149,"false,false",0.190986199,1494,60,1.14E-05,438,36,FALSE
+GO:CC,postsynaptic specialization membrane,GO:0099634,157,22149,"false,false",0.095331468,1494,18,1.36E-05,438,15,FALSE
+GO:CC,neuronal cell body,GO:0043025,500,22149,"false,false",0.000255071,1494,60,2.09E-05,438,28,TRUE
+GO:CC,presynaptic membrane,GO:0042734,188,22149,"false,false",0.13045101,1494,20,2.54E-05,438,16,FALSE
+GO:CC,cytoplasm,GO:0005737,12527,22149,"true,false",4.79E-49,1494,1118,2.58E-05,438,296,TRUE
+GO:CC,nucleoplasm,GO:0005654,4255,22149,"false,true",7.50E-08,1494,378,2.58E-05,438,125,TRUE
+GO:CC,growth cone,GO:0030426,168,22149,"false,false",0.199067151,1494,17,0.000137768,438,14,FALSE
+GO:CC,postsynaptic density membrane,GO:0098839,125,22149,"false,false",0.220491805,1494,13,0.000144068,438,12,FALSE
+GO:CC,site of polarized growth,GO:0030427,173,22149,"false,false",0.215630337,1494,17,0.000182077,438,14,FALSE
+GO:CC,presynaptic active zone,GO:0048786,93,22149,"false,false",0.175747456,1494,11,0.000287888,438,10,FALSE
+GO:CC,side of membrane,GO:0098552,746,22149,"false,false",0.179764895,1494,62,0.000287888,438,33,FALSE
+GO:CC,cytoplasmic region,GO:0099568,313,22149,"false,false",0.100453368,1494,31,0.00030475,438,19,FALSE
+GO:CC,catenin complex,GO:0016342,31,22149,"false,false",0.323844155,1494,4,0.000486304,438,6,FALSE
+GO:CC,distal axon,GO:0150034,281,22149,"false,false",0.153323109,1494,27,0.000832138,438,17,FALSE
+GO:CC,adherens junction,GO:0005912,189,22149,"false,true",0.010084972,1494,25,0.001740808,438,13,TRUE
+GO:CC,dendritic shaft,GO:0043198,41,22149,"false,false",0.461006268,1494,4,0.002333614,438,6,FALSE
+GO:CC,neuron projection membrane,GO:0032589,62,22149,"false,false",0.287765566,1494,7,0.003422477,438,7,FALSE
+GO:CC,dystroglycan complex,GO:0016011,7,22149,"false,true",0.535256674,1494,1,0.003817501,438,3,FALSE
+GO:CC,proximal dendrite,GO:1990635,7,22149,"false,false",1,-1,-1,0.003817501,438,3,FALSE
+GO:CC,perikaryon,GO:0043204,155,22149,"false,false",0.053741947,1494,19,0.003973766,438,11,FALSE
+GO:CC,axonal growth cone,GO:0044295,30,22149,"false,false",0.303806722,1494,4,0.004040182,438,5,FALSE
+GO:CC,chromatin,GO:0000785,1404,22149,"false,true",0.256615586,1494,107,0.00418051,438,47,FALSE
+GO:CC,voltage-gated calcium channel complex,GO:0005891,47,22149,"false,false",0.705397227,1494,3,0.004322569,438,6,FALSE
+GO:CC,monoatomic ion channel complex,GO:0034702,362,22149,"false,false",0.175747456,1494,33,0.004731135,438,18,FALSE
+GO:CC,Golgi apparatus,GO:0005794,1659,22149,"false,false",0.001416135,1494,151,0.004786556,438,53,TRUE
+GO:CC,costamere,GO:0043034,18,22149,"false,true",0.287765566,1494,3,0.004786556,438,4,FALSE
+GO:CC,presynaptic active zone cytoplasmic component,GO:0098831,18,22149,"false,false",1,-1,-1,0.004786556,438,4,FALSE
+GO:CC,extrinsic component of plasma membrane,GO:0019897,113,22149,"false,false",0.028812625,1494,16,0.005206478,438,9,TRUE
+GO:CC,plasma membrane bounded cell projection cytoplasm,GO:0032838,277,22149,"false,false",0.07200987,1494,29,0.005464407,438,15,FALSE
+GO:CC,cytosol,GO:0005829,5534,22149,"false,false",3.20E-19,1494,534,0.006462237,438,140,TRUE
+GO:CC,excitatory synapse,GO:0060076,72,22149,"false,false",0.106348273,1494,10,0.006530572,438,7,FALSE
+GO:CC,sarcolemma,GO:0042383,143,22149,"false,false",0.006968423,1494,21,0.00665632,438,10,TRUE
+GO:CC,main axon,GO:0044304,74,22149,"false,false",0.012199563,1494,13,0.007451606,438,7,TRUE
+GO:CC,synaptic vesicle,GO:0008021,233,22149,"false,false",0.159921176,1494,23,0.008990202,438,13,FALSE
+GO:CC,cell-cell junction,GO:0005911,526,22149,"false,false",0.020273275,1494,53,0.009578611,438,22,TRUE
+GO:CC,presynaptic active zone membrane,GO:0048787,39,22149,"false,false",0.029972987,1494,8,0.010694459,438,5,TRUE
+GO:CC,endomembrane system,GO:0012505,4872,22149,"false,false",5.95E-12,1494,450,0.011074841,438,124,TRUE
+GO:CC,dendrite membrane,GO:0032590,41,22149,"false,false",0.303806722,1494,5,0.013055805,438,5,FALSE
+GO:CC,membrane protein complex,GO:0098796,1393,22149,"false,false",4.83E-05,1494,139,0.015546269,438,44,TRUE
+GO:CC,exocytic vesicle,GO:0070382,253,22149,"false,false",0.145477155,1494,25,0.017215765,438,13,FALSE
+GO:CC,cation channel complex,GO:0034703,225,22149,"false,false",0.179764895,1494,22,0.018517904,438,12,FALSE
+GO:CC,chromosome,GO:0005694,2001,22149,"false,false",0.00276348,1494,175,0.020505485,438,58,TRUE
+GO:CC,cell projection membrane,GO:0031253,360,22149,"false,false",0.095331468,1494,35,0.022509231,438,16,FALSE
+GO:CC,plasma membrane raft,GO:0044853,117,22149,"false,false",0.340290239,1494,11,0.022509231,438,8,FALSE
+GO:CC,Cul4A-RING E3 ubiquitin ligase complex,GO:0031464,14,22149,"false,true",0.705397227,1494,1,0.022696417,438,3,FALSE
+GO:CC,hippocampal mossy fiber to CA3 synapse,GO:0098686,49,22149,"false,false",0.408990664,1494,5,0.025956479,438,5,FALSE
+GO:CC,Golgi-associated vesicle,GO:0005798,96,22149,"false,true",0.070796214,1494,13,0.027555154,438,7,FALSE
+GO:CC,cytoplasmic side of membrane,GO:0098562,210,22149,"false,false",0.017976688,1494,26,0.028735176,438,11,TRUE
+GO:CC,nuclear lumen,GO:0031981,5540,22149,"false,false",0.024899112,1494,419,0.028735176,438,135,TRUE
+GO:CC,calcium channel complex,GO:0034704,73,22149,"false,false",0.90477857,1494,3,0.028735176,438,6,FALSE
+GO:CC,leading edge membrane,GO:0031256,182,22149,"false,false",0.152184765,1494,19,0.030500611,438,10,FALSE
+GO:CC,dendritic spine membrane,GO:0032591,16,22149,"false,false",0.456009964,1494,2,0.030864757,438,3,FALSE
+GO:CC,Schaffer collateral - CA1 synapse,GO:0098685,104,22149,"false,false",0.001114487,1494,19,0.039695636,438,7,TRUE
+GO:CC,cell surface,GO:0009986,914,22149,"false,true",0.381402309,1494,68,0.041198812,438,30,FALSE
+GO:CC,neuromuscular junction,GO:0031594,80,22149,"false,false",0.158454271,1494,10,0.041398825,438,6,FALSE
+GO:CC,dystrophin-associated glycoprotein complex,GO:0016010,18,22149,"false,false",0.495498454,1494,2,0.041398825,438,3,FALSE
+GO:CC,zymogen granule membrane,GO:0042589,18,22149,"false,true",0.495498454,1494,2,0.041398825,438,3,FALSE
+GO:CC,cytosolic region,GO:0099522,36,22149,"false,false",0.005789592,1494,9,0.042974404,438,4,TRUE
+GO:CC,cell cortex region,GO:0099738,36,22149,"false,false",0.773650532,1494,2,0.042974404,438,4,FALSE
+GO:CC,Golgi membrane,GO:0000139,688,22149,"false,false",0.004813047,1494,70,0.043224202,438,24,TRUE
+GO:CC,sarcoglycan complex,GO:0016012,6,22149,"false,false",1,-1,-1,0.043268791,438,2,FALSE
+GO:CC,cell leading edge,GO:0031252,433,22149,"false,false",0.190986199,1494,38,0.046165508,438,17,FALSE
+GO:CC,caveola,GO:0005901,83,22149,"false,false",0.355668242,1494,8,0.046165508,438,6,FALSE
+GO:CC,Cul4-RING E3 ubiquitin ligase complex,GO:0080008,38,22149,"false,false",0.422779587,1494,4,0.049311865,438,4,FALSE
+GO:CC,bounding membrane of organelle,GO:0098588,2251,22149,"false,false",7.57E-08,1494,223,0.051082886,438,61,FALSE
+GO:CC,transporter complex,GO:1990351,518,22149,"false,false",0.004397809,1494,56,0.055068094,438,19,FALSE
+GO:CC,neuron projection cytoplasm,GO:0120111,89,22149,"false,false",0.00015683,1494,19,0.059112498,438,6,FALSE
+GO:CC,transmembrane transporter complex,GO:1902495,490,22149,"false,false",0.008712105,1494,52,0.063189825,438,18,FALSE
+GO:CC,cytoskeleton,GO:0005856,2474,22149,"false,false",3.73E-05,1494,225,0.068968489,438,65,FALSE
+GO:CC,postsynaptic cytosol,GO:0099524,24,22149,"false,false",0.001970758,1494,8,0.073734961,438,3,FALSE
+GO:CC,membrane-bounded organelle,GO:0043227,15780,22149,"false,false",4.24E-08,1494,1165,0.081719639,438,333,FALSE
+GO:CC,perinuclear region of cytoplasm,GO:0048471,746,22149,"false,false",4.03E-05,1494,85,0.082775384,438,24,FALSE
+GO:CC,organelle,GO:0043226,16936,22149,"false,false",7.57E-08,1494,1234,0.087997539,438,354,FALSE
+GO:CC,organelle lumen,GO:0043233,6695,22149,"false,false",2.94E-05,1494,535,0.09804741,438,153,FALSE
+GO:CC,membrane-enclosed lumen,GO:0031974,6695,22149,"false,false",2.94E-05,1494,535,0.09804741,438,153,FALSE
+GO:CC,intracellular organelle lumen,GO:0070013,6695,22149,"false,false",2.94E-05,1494,535,0.09804741,438,153,FALSE
+GO:CC,transport vesicle,GO:0030133,453,22149,"false,false",0.028728054,1494,46,0.10022407,438,16,FALSE
+GO:CC,anchoring junction,GO:0070161,912,22149,"false,false",8.10E-05,1494,98,0.119545822,438,27,FALSE
+GO:CC,postsynaptic cytoskeleton,GO:0099571,14,22149,"false,false",0.015445112,1494,5,0.137158317,438,2,FALSE
+GO:CC,intracellular membraneless organelle,GO:0043232,6669,22149,"false,false",0.024280775,1494,498,0.142847552,438,150,FALSE
+GO:CC,membraneless organelle,GO:0043228,6670,22149,"false,false",0.024351829,1494,498,0.142847552,438,150,FALSE
+GO:CC,axon cytoplasm,GO:1904115,64,22149,"false,false",0.00403552,1494,13,0.150855526,438,4,FALSE
+GO:CC,cytoplasmic side of plasma membrane,GO:0009898,165,22149,"false,false",0.028781917,1494,21,0.169147661,438,7,FALSE
+GO:CC,secretory vesicle,GO:0099503,1099,22149,"false,false",0.003805484,1494,104,0.171888648,438,30,FALSE
+GO:CC,cytoplasmic vesicle,GO:0031410,2556,22149,"false,false",1.12E-07,1494,246,0.184526252,438,62,FALSE
+GO:CC,intracellular vesicle,GO:0097708,2562,22149,"false,false",7.50E-08,1494,248,0.185137334,438,62,FALSE
+GO:CC,microtubule cytoskeleton,GO:0015630,1436,22149,"false,false",0.005486502,1494,129,0.19004399,438,37,FALSE
+GO:CC,filopodium,GO:0030175,107,22149,"true,false",0.036705622,1494,15,0.192092883,438,5,FALSE
+GO:CC,Sin3-type complex,GO:0070822,22,22149,"true,false",0.023552317,1494,6,0.208480268,438,2,FALSE
+GO:CC,vesicle,GO:0031982,4033,22149,"false,false",4.24E-08,1494,363,0.216031958,438,92,FALSE
+GO:CC,axon initial segment,GO:0043194,23,22149,"false,false",0.027129715,1494,6,0.216031958,438,2,FALSE
+GO:CC,cytoplasmic vesicle membrane,GO:0030659,1252,22149,"false,false",1.61E-05,1494,130,0.230072411,438,32,FALSE
+GO:CC,vesicle membrane,GO:0012506,1271,22149,"false,false",3.22E-05,1494,130,0.245554153,438,32,FALSE
+GO:CC,dendrite cytoplasm,GO:0032839,27,22149,"false,false",0.000882594,1494,9,0.248817614,438,2,FALSE
+GO:CC,coated vesicle,GO:0030135,318,22149,"false,false",0.036352248,1494,34,0.254016075,438,10,FALSE
+GO:CC,organelle subcompartment,GO:0031984,1562,22149,"false,false",0.000316166,1494,148,0.263160949,438,38,FALSE
+GO:CC,Golgi-associated vesicle membrane,GO:0030660,58,22149,"false,false",0.035027229,1494,10,0.263160949,438,3,FALSE
+GO:CC,organelle membrane,GO:0031090,3842,22149,"false,false",6.42E-12,1494,370,0.263486233,438,86,FALSE
+GO:CC,SWI/SNF complex,GO:0016514,30,22149,"false,false",0.02570857,1494,7,0.269002555,438,2,FALSE
+GO:CC,midbody,GO:0030496,208,22149,"false,false",0.015949243,1494,26,0.270952269,438,7,FALSE
+GO:CC,Z disc,GO:0030018,132,22149,"false,false",0.0264476,1494,18,0.27358053,438,5,FALSE
+GO:CC,endoplasmic reticulum,GO:0005783,2095,22149,"false,false",7.35E-07,1494,205,0.276324299,438,49,FALSE
+GO:CC,intracellular membrane-bounded organelle,GO:0043231,14727,22149,"false,false",1.12E-07,1494,1095,0.276329925,438,303,FALSE
+GO:CC,catalytic complex,GO:1902494,1779,22149,"false,false",3.82E-09,1494,191,0.283918041,438,42,FALSE
+GO:CC,endosome,GO:0005768,1083,22149,"false,false",0.003519161,1494,103,0.346822333,438,26,FALSE
+GO:CC,chromosomal region,GO:0098687,404,22149,"false,false",0.004507693,1494,46,0.346822333,438,11,FALSE
+GO:CC,bBAF complex,GO:0140092,10,22149,"false,false",0.025343658,1494,4,0.346822333,438,1,FALSE
+GO:CC,endoplasmic reticulum protein-containing complex,GO:0140534,116,22149,"false,false",0.008205811,1494,18,0.360109117,438,4,FALSE
+GO:CC,secretory granule,GO:0030141,907,22149,"false,false",0.017205026,1494,84,0.360109117,438,22,FALSE
+GO:CC,sarcoplasmic reticulum,GO:0016529,77,22149,"false,false",0.035975404,1494,12,0.360109117,438,3,FALSE
+GO:CC,focal adhesion,GO:0005925,426,22149,"false,false",0.011317288,1494,46,0.390636608,438,11,FALSE
+GO:CC,npBAF complex,GO:0071564,14,22149,"false,false",0.0027484,1494,6,0.397667256,438,1,FALSE
+GO:CC,voltage-gated sodium channel complex,GO:0001518,14,22149,"false,false",0.015445112,1494,5,0.397667256,438,1,FALSE
+GO:CC,brahma complex,GO:0035060,14,22149,"false,false",0.015445112,1494,5,0.397667256,438,1,FALSE
+GO:CC,intracellular protein-containing complex,GO:0140535,946,22149,"true,false",0.003519161,1494,92,0.399520744,438,22,FALSE
+GO:CC,cell-substrate junction,GO:0030055,436,22149,"false,false",0.010581623,1494,47,0.399835582,438,11,FALSE
+GO:CC,kinetochore,GO:0000776,173,22149,"false,false",0.00079927,1494,27,0.414085262,438,5,FALSE
+GO:CC,transferase complex,GO:1990234,910,22149,"false,false",0.003622045,1494,89,0.417976397,438,21,FALSE
+GO:CC,microtubule,GO:0005874,492,22149,"false,false",0.014427898,1494,51,0.4249005,438,12,FALSE
+GO:CC,nBAF complex,GO:0071565,16,22149,"true,false",0.000862192,1494,7,0.425491915,438,1,FALSE
+GO:CC,cellular anatomical structure,GO:0110165,21620,22149,"false,false",6.88E-10,1494,1490,0.430063786,438,430,FALSE
+GO:CC,nuclear outer membrane-endoplasmic reticulum membrane network,GO:0042175,1258,22149,"false,false",0.000179835,1494,125,0.436440737,438,28,FALSE
+GO:CC,intracellular organelle,GO:0043229,16147,22149,"false,false",4.24E-08,1494,1188,0.437433788,438,325,FALSE
+GO:CC,SWI/SNF superfamily-type complex,GO:0070603,95,22149,"false,false",0.032350075,1494,14,0.439028478,438,3,FALSE
+GO:CC,cytosolic large ribosomal subunit,GO:0022625,55,22149,"false,false",0.026731048,1494,10,0.446160866,438,2,FALSE
+GO:CC,"condensed chromosome, centromeric region",GO:0000779,185,22149,"false,false",0.000964399,1494,28,0.452158949,438,5,FALSE
+GO:CC,centrosome,GO:0005813,746,22149,"true,false",0.04639954,1494,68,0.458468334,438,17,FALSE
+GO:CC,intracellular anatomical structure,GO:0005622,17944,22149,"false,false",2.84E-14,1494,1325,0.476076104,438,359,FALSE
+GO:CC,nuclear envelope,GO:0005635,519,22149,"false,false",0.032350075,1494,51,0.477338823,438,12,FALSE
+GO:CC,rough endoplasmic reticulum,GO:0005791,61,22149,"false,false",0.007505433,1494,12,0.487123161,438,2,FALSE
+GO:CC,recycling endosome membrane,GO:0055038,108,22149,"false,false",0.004205769,1494,18,0.503871656,438,3,FALSE
+GO:CC,supramolecular fiber,GO:0099512,1068,22149,"false,false",0.002322375,1494,103,0.50777552,438,23,FALSE
+GO:CC,early endosome,GO:0005769,438,22149,"false,false",0.004494491,1494,49,0.50777552,438,10,FALSE
+GO:CC,supramolecular polymer,GO:0099081,1076,22149,"false,false",0.002074745,1494,104,0.520786249,438,23,FALSE
+GO:CC,sodium channel complex,GO:0034706,25,22149,"true,false",0.010581623,1494,7,0.530040122,438,1,FALSE
+GO:CC,endoplasmic reticulum membrane,GO:0005789,1233,22149,"false,false",0.000395654,1494,121,0.532893865,438,26,FALSE
+GO:CC,cytosolic ribosome,GO:0022626,115,22149,"false,false",0.003519161,1494,19,0.533281628,438,3,FALSE
+GO:CC,endoplasmic reticulum subcompartment,GO:0098827,1239,22149,"false,false",0.000331222,1494,122,0.541688698,438,26,FALSE
+GO:CC,supramolecular complex,GO:0099080,1448,22149,"false,false",5.85E-05,1494,143,0.557383468,438,30,FALSE
+GO:CC,mitochondrial matrix,GO:0005759,514,22149,"false,false",2.48E-07,1494,71,0.573204956,438,11,FALSE
+GO:CC,ATPase complex,GO:1904949,128,22149,"false,false",0.020905447,1494,18,0.602828547,438,3,FALSE
+GO:CC,extracellular organelle,GO:0043230,2142,22149,"false,false",0.001093687,1494,189,0.615478853,438,43,FALSE
+GO:CC,extracellular vesicle,GO:1903561,2141,22149,"false,false",0.001093687,1494,189,0.615478853,438,43,FALSE
+GO:CC,extracellular membrane-bounded organelle,GO:0065010,2142,22149,"false,false",0.001093687,1494,189,0.615478853,438,43,FALSE
+GO:CC,endosome membrane,GO:0010008,582,22149,"false,false",0.002261845,1494,63,0.615478853,438,12,FALSE
+GO:CC,ficolin-1-rich granule,GO:0101002,184,22149,"false,false",0.025343658,1494,23,0.625962453,438,4,FALSE
+GO:CC,condensed chromosome,GO:0000793,285,22149,"false,false",0.005297,1494,35,0.626206842,438,6,FALSE
+GO:CC,extracellular exosome,GO:0070062,2111,22149,"false,false",0.000782964,1494,188,0.63492914,438,42,FALSE
+GO:CC,vacuole,GO:0005773,867,22149,"false,false",0.001411624,1494,88,0.671199197,438,17,FALSE
+GO:CC,"chromosome, centromeric region",GO:0000775,263,22149,"false,false",0.009439928,1494,32,0.715412721,438,5,FALSE
+GO:CC,mitochondrion,GO:0005739,1844,22149,"false,false",2.74E-06,1494,182,0.738676271,438,35,FALSE
+GO:CC,organelle envelope,GO:0031967,1329,22149,"false,false",0.000533965,1494,128,0.743694554,438,25,FALSE
+GO:CC,large ribosomal subunit,GO:0015934,114,22149,"false,false",0.003253074,1494,19,0.766774752,438,2,FALSE
+GO:CC,lytic vacuole,GO:0000323,770,22149,"false,false",0.004407575,1494,77,0.766774752,438,14,FALSE
+GO:CC,lysosome,GO:0005764,770,22149,"false,false",0.004407575,1494,77,0.766774752,438,14,FALSE
+GO:CC,lytic vacuole membrane,GO:0098852,451,22149,"false,false",0.011729127,1494,48,0.769915308,438,8,FALSE
+GO:CC,lysosomal membrane,GO:0005765,451,22149,"false,false",0.011729127,1494,48,0.769915308,438,8,FALSE
+GO:CC,mitochondrial protein-containing complex,GO:0098798,183,22149,"false,false",0.024351829,1494,23,0.795078611,438,3,FALSE
+GO:CC,ficolin-1-rich granule lumen,GO:1904813,124,22149,"false,false",0.003494075,1494,20,0.795820168,438,2,FALSE
+GO:CC,ribosomal subunit,GO:0044391,187,22149,"false,false",0.001093687,1494,28,0.806307858,438,3,FALSE
+GO:CC,vesicle tethering complex,GO:0099023,69,22149,"true,false",0.007096348,1494,13,0.827864242,438,1,FALSE
+GO:CC,vacuolar membrane,GO:0005774,498,22149,"false,false",0.004832701,1494,54,0.838253656,438,8,FALSE
+GO:CC,mitochondrial membrane,GO:0031966,790,22149,"false,false",0.015705567,1494,75,0.846794293,438,13,FALSE
+GO:CC,oxidoreductase complex,GO:1990204,147,22149,"false,false",0.002184255,1494,23,0.848071535,438,2,FALSE
+GO:CC,mitochondrial ribosome,GO:0005761,89,22149,"false,false",0.043687826,1494,13,0.879563992,438,1,FALSE
+GO:CC,organellar ribosome,GO:0000313,89,22149,"false,false",0.043687826,1494,13,0.879563992,438,1,FALSE
+GO:CC,mitochondrial envelope,GO:0005740,840,22149,"false,false",0.015680662,1494,79,0.891244427,438,13,FALSE
+GO:CC,organelle inner membrane,GO:0019866,571,22149,"false,false",0.001416135,1494,63,0.959547718,438,7,FALSE
+GO:CC,mitochondrial inner membrane,GO:0005743,514,22149,"false,false",0.005560453,1494,55,0.96404944,438,6,FALSE
+GO:CC,extracellular space,GO:0005615,3315,22149,"false,false",0.030231782,1494,260,0.968575092,438,54,FALSE
+GO:CC,RZZ complex,GO:1990423,3,22149,"false,false",0.004172679,1494,3,1,-1,-1,FALSE
+GO:CC,fibrillar center,GO:0001650,150,22149,"false,false",0.00549419,1494,22,1,-1,-1,FALSE
+GO:CC,postsynaptic recycling endosome,GO:0098837,12,22149,"true,false",0.008134546,1494,5,1,-1,-1,FALSE
+GO:CC,postsynaptic intermediate filament cytoskeleton,GO:0099160,4,22149,"false,false",0.011707479,1494,3,1,-1,-1,FALSE
+GO:CC,respiratory chain complex II (succinate dehydrogenase),GO:0045273,4,22149,"false,false",0.011707479,1494,3,1,-1,-1,FALSE
+GO:CC,respiratory chain complex,GO:0098803,102,22149,"false,false",0.012538624,1494,16,1,-1,-1,FALSE
+GO:CC,kinetochore microtubule,GO:0005828,22,22149,"true,false",0.023552317,1494,6,1,-1,-1,FALSE
+GO:CC,postsynaptic recycling endosome membrane,GO:0098944,5,22149,"false,false",0.023552317,1494,3,1,-1,-1,FALSE
+GO:CC,Sec61 translocon complex,GO:0005784,5,22149,"false,false",0.023552317,1494,3,1,-1,-1,FALSE
+GO:CC,vesicle coat,GO:0030120,63,22149,"true,false",0.024899112,1494,11,1,-1,-1,FALSE
+GO:CC,prespliceosome,GO:0071010,17,22149,"false,false",0.032011314,1494,5,1,-1,-1,FALSE
+GO:CC,exocyst,GO:0000145,17,22149,"false,false",0.032011314,1494,5,1,-1,-1,FALSE
+GO:CC,U2-type prespliceosome,GO:0071004,17,22149,"true,false",0.032011314,1494,5,1,-1,-1,FALSE
+GO:CC,methylcrotonoyl-CoA carboxylase complex,GO:1905202,2,22149,"false,false",0.032350075,1494,2,1,-1,-1,FALSE
+GO:CC,Shc-EGFR complex,GO:0070435,2,22149,"true,false",0.032350075,1494,2,1,-1,-1,FALSE
+GO:CC,tRNA (m7G46) methyltransferase complex,GO:0106143,2,22149,"true,false",0.032350075,1494,2,1,-1,-1,FALSE
+GO:CC,SCAR complex,GO:0031209,11,22149,"false,false",0.032550447,1494,4,1,-1,-1,FALSE
+GO:CC,respiratory chain complex III,GO:0045275,11,22149,"false,false",0.032550447,1494,4,1,-1,-1,FALSE
+GO:CC,cytochrome complex,GO:0070069,32,22149,"false,false",0.033053829,1494,7,1,-1,-1,FALSE
+GO:CC,translocon complex,GO:0071256,6,22149,"false,false",0.035975404,1494,3,1,-1,-1,FALSE
+GO:MF,protein binding,GO:0005515,15123,20246,"true,true",9.87E-29,1492,1293,8.70E-10,430,380,TRUE
+GO:MF,metal ion binding,GO:0046872,4396,20246,"false,false",0.073872536,1492,369,0.004869453,430,131,FALSE
+GO:MF,cation binding,GO:0043169,4495,20246,"false,false",0.078308418,1492,376,0.004869453,430,133,FALSE
+GO:MF,beta-catenin binding,GO:0008013,108,20246,"false,false",0.873072228,1492,6,0.004923154,430,11,FALSE
+GO:MF,binding,GO:0005488,18498,20246,"false,false",0.000450973,1492,1409,0.005873241,430,414,TRUE
+GO:MF,transferase activity,GO:0016740,2594,20246,"false,true",0.025062901,1492,235,0.005873241,430,84,TRUE
+GO:MF,kinase binding,GO:0019900,796,20246,"false,false",0.061125985,1492,82,0.005873241,430,35,FALSE
+GO:MF,"catalytic activity, acting on a protein",GO:0140096,2849,20246,"false,true",0.185038245,1492,239,0.005873241,430,91,FALSE
+GO:MF,ion binding,GO:0043167,6377,20246,"false,false",0.000439168,1492,551,0.007104226,430,173,TRUE
+GO:MF,calcium channel activity,GO:0005262,169,20246,"false,true",0.492579456,1492,15,0.007104226,430,13,FALSE
+GO:MF,small molecule binding,GO:0036094,6577,20246,"false,false",0.001230842,1492,561,0.00729151,430,177,TRUE
+GO:MF,glutamate receptor binding,GO:0035254,50,20246,"false,true",0.426368929,1492,6,0.00729151,430,7,FALSE
+GO:MF,enzyme binding,GO:0019899,2107,20246,"false,false",0.000279273,1492,212,0.008181761,430,70,TRUE
+GO:MF,high voltage-gated calcium channel activity,GO:0008331,14,20246,"false,false",1,-1,-1,0.012576464,430,4,FALSE
+GO:MF,calcium ion transmembrane transporter activity,GO:0015085,187,20246,"false,false",0.530436468,1492,16,0.013121766,430,13,FALSE
+GO:MF,protein kinase binding,GO:0019901,717,20246,"false,false",0.062668276,1492,75,0.019899651,430,30,FALSE
+GO:MF,transmembrane receptor protein tyrosine phosphatase activity,GO:0005001,17,20246,"false,true",0.388138363,1492,3,0.019899651,430,4,FALSE
+GO:MF,transmembrane receptor protein phosphatase activity,GO:0019198,17,20246,"false,false",0.388138363,1492,3,0.019899651,430,4,FALSE
+GO:MF,monoatomic cation channel activity,GO:0005261,430,20246,"false,false",0.530436468,1492,35,0.019899651,430,21,FALSE
+GO:MF,voltage-gated calcium channel activity,GO:0005245,44,20246,"false,false",0.892924061,1492,2,0.019899651,430,6,FALSE
+GO:MF,acyl-CoA 6-desaturase activity,GO:0016213,2,20246,"false,true",1,-1,-1,0.022245737,430,2,FALSE
+GO:MF,kinase activity,GO:0016301,1000,20246,"false,false",0.428689677,1492,82,0.036098397,430,37,FALSE
+GO:MF,transcription regulatory region nucleic acid binding,GO:0001067,1486,20246,"false,false",0.570398941,1492,113,0.036098397,430,50,FALSE
+GO:MF,transcription cis-regulatory region binding,GO:0000976,1485,20246,"false,true",0.598652653,1492,112,0.036098397,430,50,FALSE
+GO:MF,double-stranded DNA binding,GO:0003690,1644,20246,"false,false",0.697881193,1492,120,0.037227129,430,54,FALSE
+GO:MF,transmembrane transporter binding,GO:0044325,143,20246,"false,false",0.202955361,1492,18,0.039022839,430,10,FALSE
+GO:MF,cell adhesion molecule binding,GO:0050839,564,20246,"false,false",0.305269076,1492,53,0.04086559,430,24,FALSE
+GO:MF,sequence-specific double-stranded DNA binding,GO:1990837,1547,20246,"false,false",0.648141434,1492,115,0.042901693,430,51,FALSE
+GO:MF,neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration,GO:0099583,3,20246,"false,true",1,-1,-1,0.044571869,430,2,FALSE
+GO:MF,synaptic receptor adaptor activity,GO:0030160,3,20246,"false,true",1,-1,-1,0.044571869,430,2,FALSE
+GO:MF,voltage-gated calcium channel activity involved in AV node cell action potential,GO:0086056,3,20246,"false,true",1,-1,-1,0.044571869,430,2,FALSE
+GO:MF,protein kinase activity,GO:0004672,786,20246,"false,false",0.563165004,1492,61,0.046003163,430,30,FALSE
+GO:MF,RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,1183,20246,"false,true",0.678038063,1492,87,0.046003163,430,41,FALSE
+GO:MF,DNA secondary structure binding,GO:0000217,40,20246,"false,true",0.970792083,1492,1,0.046003163,430,5,FALSE
+GO:MF,catalytic activity,GO:0003824,6817,20246,"true,false",1.23E-06,1492,609,0.109350795,430,170,FALSE
+GO:MF,protein-macromolecule adaptor activity,GO:0030674,1034,20246,"true,false",0.046245579,1492,104,0.139127349,430,34,FALSE
+GO:MF,purine nucleotide binding,GO:0017076,2241,20246,"false,false",0.00394706,1492,214,0.168721052,430,63,FALSE
+GO:MF,ribonucleotide binding,GO:0032553,2164,20246,"false,false",0.006426345,1492,206,0.168721052,430,61,FALSE
+GO:MF,purine ribonucleoside triphosphate binding,GO:0035639,2087,20246,"false,false",0.007487211,1492,199,0.168721052,430,58,FALSE
+GO:MF,purine ribonucleotide binding,GO:0032555,2147,20246,"false,false",0.009680727,1492,203,0.168721052,430,60,FALSE
+GO:MF,tubulin binding,GO:0015631,392,20246,"true,false",0.026373786,1492,48,0.168721052,430,15,FALSE
+GO:MF,carbohydrate derivative binding,GO:0097367,2536,20246,"false,false",0.01873061,1492,232,0.184887958,430,68,FALSE
+GO:MF,nucleotide binding,GO:0000166,2406,20246,"false,false",0.000534247,1492,234,0.22086505,430,63,FALSE
+GO:MF,protein-containing complex binding,GO:0044877,1314,20246,"false,false",0.01873061,1492,131,0.232791319,430,37,FALSE
+GO:MF,nucleoside phosphate binding,GO:1901265,2424,20246,"false,false",0.000485144,1492,236,0.234586609,430,63,FALSE
+GO:MF,anion binding,GO:0043168,2685,20246,"false,false",0.001839576,1492,253,0.249911365,430,68,FALSE
+GO:MF,heterocyclic compound binding,GO:1901363,2558,20246,"false,false",0.000172928,1492,252,0.253470862,430,65,FALSE
+GO:MF,ubiquitin protein ligase binding,GO:0031625,306,20246,"false,false",0.040061329,1492,39,0.287098504,430,10,FALSE
+GO:MF,ubiquitin-like protein ligase binding,GO:0044389,324,20246,"false,false",0.020450657,1492,42,0.324405848,430,10,FALSE
+GO:MF,ATP hydrolysis activity,GO:0016887,411,20246,"false,false",0.025062901,1492,50,0.517734342,430,10,FALSE
+GO:MF,identical protein binding,GO:0042802,2182,20246,"false,false",0.018785379,1492,203,0.551682747,430,48,FALSE
+GO:MF,ribonucleoside triphosphate phosphatase activity,GO:0017111,1201,20246,"false,false",0.000279273,1492,133,0.595757321,430,26,FALSE
+GO:MF,pyrophosphatase activity,GO:0016462,1261,20246,"false,false",0.000172928,1492,140,0.675672714,430,26,FALSE
+GO:MF,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",GO:0016818,1262,20246,"false,false",0.000172928,1492,140,0.675860024,430,26,FALSE
+GO:MF,"hydrolase activity, acting on acid anhydrides",GO:0016817,1262,20246,"false,false",0.000172928,1492,140,0.675860024,430,26,FALSE
+GO:MF,hydrolase activity,GO:0016787,3255,20246,"false,false",0.01873061,1492,290,0.81627389,430,64,FALSE
+GO:MF,double-stranded telomeric DNA binding,GO:0003691,9,20246,"true,false",0.01873061,1492,5,1,-1,-1,FALSE
+GO:MF,translation repressor activity,GO:0030371,35,20246,"true,false",0.049584705,1492,9,1,-1,-1,FALSE
