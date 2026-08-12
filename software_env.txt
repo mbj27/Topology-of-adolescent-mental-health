@@ -1,0 +1,26 @@
+## Software environment
+
+R v. 4.5.2
+RStudio v. 2025.09.2+418 
+
+R packages:
+tidyverse 2.0.0
+naniar 1.1.0
+psych 2.5.6
+VIM 7.0.0
+
+Python 3.9.10
+Jupyter extension v. 2025.9.1 in VSCode v. 1.111.0
+
+Python packages:
+numpy 2.0.2
+pandas 2.3.3
+matplotlib 3.9.4
+seaborn 0.13.2
+scikit-learn 1.6.1
+MiniSom 2.3.5
+pyls 0.0.1
+netneurotools 0.3.0
+scipy 1.13.1
+bctpy 0.6.1
+joblib 1.5.2
