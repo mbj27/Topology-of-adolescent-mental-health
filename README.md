@@ -17,7 +17,6 @@ OS: Windows or macOS.
 Typical installation time: 15-20 min, depending on system/existing Python/R set-up.  
 Non-standard hardware: Not required.  
 
-
 ### Instructions
 
 #### To view original code generating results and figures from manuscript
@@ -50,4 +49,10 @@ Navigate to /sim, download mock data files and run code files in below order:
 2. Resting-state fMRI PLS Analysis 
 3. Polygenic Risk Score PLS Analysis 
 4. Edge-type Analysis - Rich, Feeder and Local connections 
-5. AHBA gene expression x Psychopathology connectivity PLS 
+5. AHBA gene expression x Psychopathology connectivity PLS
+
+### Citation
+** If you use this code for your research please cite: **
+The topology of adolescent mental health
+Maria B. Jelen, Alexa Mousley, Kayson Fakhar, Estherina Trachtenberg, Yuankai He, Robert Kohler, Shambhavi Aggarwal, Varun Warrier, Danilo Bzdok, Sarah W. Yip, Duncan E. Astle
+medRxiv 2026.07.13.26357465; doi: https://doi.org/10.64898/2026.07.13.26357465
