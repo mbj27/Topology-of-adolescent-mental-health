@@ -14,9 +14,7 @@ Main analysis scripts have been provided with simulated mock datasets to facilit
 
 Required packages can be found in software_env.txt.  
 OS: Windows or macOS. 
-
 Typical installation time: 15-20 min, depending on system/existing Python/R set-up.  
-
 Non-standard hardware: Not required.  
 
 
