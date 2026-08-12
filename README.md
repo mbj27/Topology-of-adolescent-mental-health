@@ -12,6 +12,7 @@ Main analysis scripts have been provided with simulated mock datasets to facilit
 2. Python 3.9.10 via Jupyter Noteboook (installation: https://docs.jupyter.org/en/latest/install/notebook-classic.html)
 3. (suggested) Visual Studio Code (installation: https://code.visualstudio.com/download?_exp_download=d53503e735)
 
+Required packages can be found in software_env.txt.  
 OS: Windows or macOS. 
 
 Typical installation time: 15-20 min, depending on system/existing Python/R set-up.  
