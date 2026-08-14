@@ -110,7 +110,7 @@ sleep_selected <- sleep_all %>%
                 ~ rescale_to_0_2(z_score_transform(convert_to_equidistant(.x, 3))),
                 .names = "{.col}_final")) %>%
   rowwise() %>%
-  # Summing specific dimensions as per your original selection
+  # Summing DIMS
   mutate(sds_p_ss_dims_final = sum(c(sleepdisturb1_p_final, sleepdisturb2_p_final, 
                                     sleepdisturb3_p_final, sleepdisturb4_p_final, 
                                     sleepdisturb5_p_final, sleepdisturb10_p_final, 
