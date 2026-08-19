@@ -5,7 +5,7 @@ Code correspondence: Maria B. Jelen
 ### Data
 This code uses the ABCD data, obtained from the 5.1 release from the ABCD Study Data Repository from the NIMH Data Archive (https://nda.nih.gov/abcd) following appropriate data access permissions. Authorised access to the ABCD Data Repository is required to obtain ABCD data, hence source data is not shared on this repository. 
 
-Main analysis scripts have been provided with simulated mock datasets to facilitate functionality of scripts, but these will not directly reproduce manuscript results.
+A demo containing main analysis scripts has been provided with simulated mock datasets, but these will not reproduce manuscript results and do not represent any meaningful findings.
 
 ### Required software
 1. RStudio 4.5.2 (installation: https://rstudio.com/products/rstudio/download/)
@@ -37,12 +37,14 @@ Navigate to /scripts and view files in below order:
 6. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation.ipynb)
 7. Gene Ontology - g:Profiler documentation
 
-#### To trial main analytical scripts on simulated data
+To directly replicate the analysis, access to original ABCD data is required. Preprocessing files demonstrate steps necessary to obtain analysis variables from raw data in the 5.1 ABCD release.
 
-Navigate to /sim, download mock data files and run code files in below order:
+#### To trial functionality of main analytical scripts on simulated data
+
+Navigate to /demo, download mock data files and and code scripts, then run code files in below order:
 
 1. SOM and psychopathology profile development 
-     - Training and validaiton of SOM
+     - Training and validation of SOM
      - Clustering and alternative assessment of SOM topology - psychopathology profiles
      - Overlap with diagnostic burden
      - Stability over follow-up time points 
@@ -51,8 +53,10 @@ Navigate to /sim, download mock data files and run code files in below order:
 4. Edge-type Analysis - Rich, Feeder and Local connections 
 5. AHBA gene expression x Psychopathology connectivity PLS
 
+Note that all data in the demo is was generated randomly from normal/binomial distributions and does not have any affiliation with ABCD data. Participant identifiers and associated data do not in any way correspond to real participants.
+
 ### Citation
-** If you use this code for your research please cite: **
+Code is affiliated with the below preprint:
 The topology of adolescent mental health
 Maria B. Jelen, Alexa Mousley, Kayson Fakhar, Estherina Trachtenberg, Yuankai He, Robert Kohler, Shambhavi Aggarwal, Varun Warrier, Danilo Bzdok, Sarah W. Yip, Duncan E. Astle
 medRxiv 2026.07.13.26357465; doi: https://doi.org/10.64898/2026.07.13.26357465
