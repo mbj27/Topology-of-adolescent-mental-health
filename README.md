@@ -13,7 +13,7 @@ A demo containing main analysis scripts has been provided with simulated mock da
 3. (suggested) Visual Studio Code (installation: https://code.visualstudio.com/download?_exp_download=d53503e735)
 
 Required packages can be found in software_env.txt.  
-OS: Coded on Windows, tested on macOS. 
+OS: Coded on Windows, tested on macOS.   
 Typical installation time: 15-20 min, depending on system/existing Python/R set-up.  
 Non-standard hardware: Not required.  
 
