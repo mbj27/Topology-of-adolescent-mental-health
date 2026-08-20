@@ -53,6 +53,7 @@ Navigate to /demo, download mock data files and and code scripts, then run code 
 4. Edge-type Analysis - Rich, Feeder and Local connections 
 5. AHBA gene expression x Psychopathology connectivity PLS
 
+Mock datasets, a trained SOM and classifier, and intermediate data processing files are provided to allow functionality of scripts independently.
 Note that all data in the demo is was generated randomly from normal/binomial distributions and does not have any affiliation with ABCD data. Participant identifiers and associated data do not in any way correspond to real participants.
 
 ### Citation
