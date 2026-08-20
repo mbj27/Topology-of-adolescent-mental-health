@@ -56,7 +56,7 @@ Navigate to /demo, download mock data files and and code scripts, then run code 
 6. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation_mock.ipynb)
 
 Expected demo run time: ~10 minutes.  
-Expected outputs specified in /demo/README.md
+Expected outputs specified in /demo/README.md   
 Mock datasets, a trained SOM and classifier, and intermediate data processing files are provided.  
 Note that all data in the demo is was generated randomly from normal/binomial distributions and does not have any affiliation with ABCD data. Participant pseudoidentifiers and associated data do not in any way correspond to real participants.
 
