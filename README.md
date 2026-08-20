@@ -5,7 +5,7 @@ Code correspondence: Maria B. Jelen
 ### Data
 This code uses the ABCD data, obtained from the 5.1 release from the ABCD Study Data Repository from the NIMH Data Archive (https://nda.nih.gov/abcd) following appropriate data access permissions. Authorised access to the ABCD Data Repository is required to obtain ABCD data, hence source data is not shared on this repository. 
 
-A demo containing main analysis scripts has been provided with simulated mock datasets, but these will not reproduce manuscript results and do not represent any meaningful findings.
+A demo containing main analysis scripts has been provided with simulated mock datasets to demonstrate functionality, but these cannot reproduce manuscript results.
 
 ### Required software
 1. RStudio 4.5.2 (installation: https://rstudio.com/products/rstudio/download/)
@@ -37,9 +37,9 @@ Navigate to /scripts and view files in below order:
 6. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation.ipynb)
 7. Gene Ontology - g:Profiler documentation
 
-*To apply analysis for your own data*, download code files, substitute data files for your own data (code contains steps such as alignment and expected data shape) and run analysis in specified order.
+*To apply analysis for your own data*, the code can be adapted for novel appropriately formatted data. Key formatting steps, including alignment, expected shape after cleaning etc., are included in scripts.
 
-*To replicate the reported analysis*, authorised access to ABCD data is required. Preprocessing files demonstrate steps necessary to obtain analysis variables from raw data in the 5.1 ABCD release.
+*To replicate the reported analysis*, authorised access to ABCD data is required. Preprocessing files demonstrate steps to obtain analysis variables from raw data.
 
 #### To trial functionality of main analytical scripts on simulated data
 
