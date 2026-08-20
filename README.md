@@ -28,14 +28,14 @@ Navigate to /scripts and view files in below order:
      - Training and validaiton of SOM
      - Clustering and alternative assessment of SOM topology - psychopathology profiles
      - Overlap with diagnostic burden
-     - Stability over follow-up time points (SOM-followup.ipynb)
-3. Resting-state fMRI PLS Analysis 
+3. Stability over follow-up time points (SOM-followup.ipynb)
+4. Resting-state fMRI PLS Analysis 
      - fMRI data cleaning preparation (fMRI_dataprep.ipynb)
      - PLS analysis (PLS-rsFC.ipynb)
-4. Polygenic Risk Score PLS Analysis (PLS-PGR.ipynb)
-5. Edge-type Analysis - Rich, Feeder and Local connections (PLS-richclub.ipynb)
-6. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation.ipynb)
-7. Gene Ontology - g:Profiler documentation
+5. Polygenic Risk Score PLS Analysis (PLS-PGR.ipynb)
+6. Edge-type Analysis - Rich, Feeder and Local connections (PLS-richclub.ipynb)
+7. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation.ipynb)
+8. Gene Ontology - g:Profiler documentation
 
 *To apply analysis for your own data*, the code can be adapted for novel appropriately formatted data. Key formatting steps, including alignment, expected shape after cleaning etc., are included in scripts.
 
@@ -48,12 +48,14 @@ Navigate to /demo, download mock data files and and code scripts, then run code 
 1. SOM and psychopathology profile development 
      - Training and validation of SOM
      - Clustering and alternative assessment of SOM topology - psychopathology profiles
-     - Overlap with diagnostic burden
-     - Stability over follow-up time points 
-2. Resting-state fMRI PLS Analysis 
-3. Polygenic Risk Score PLS Analysis 
-4. Edge-type Analysis - Rich, Feeder and Local connections 
-5. AHBA gene expression x Psychopathology connectivity PLS
+     - Overlap with diagnostic burden  
+Expected output: trained SOM object and visualisation (som.p), visualisation of overlap with diagnostic burden, psychopathology profiles significant after permutation (significant_islands_report_mock.json), assignment of participants to psychopathology profiles (som_island_membership.csv)   
+
+2. Stability over follow-up time points 
+3. Resting-state fMRI PLS Analysis 
+4. Polygenic Risk Score PLS Analysis 
+5. Edge-type Analysis - Rich, Feeder and Local connections 
+6. AHBA gene expression x Psychopathology connectivity PLS
 
 Expected demo run time: ~10 minutes.  
 Mock datasets, a trained SOM and classifier, and intermediate data processing files are provided.  
