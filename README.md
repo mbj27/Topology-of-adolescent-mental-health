@@ -37,7 +37,9 @@ Navigate to /scripts and view files in below order:
 6. AHBA gene expression x Psychopathology connectivity PLS (Gene_annotation.ipynb)
 7. Gene Ontology - g:Profiler documentation
 
-To directly replicate the analysis, access to original ABCD data is required. Preprocessing files demonstrate steps necessary to obtain analysis variables from raw data in the 5.1 ABCD release.
+*To apply analysis for your own data*, download code files, substitute data files for your own data (code contains steps such as alignment and expected data shape) and run analysis in specified order.
+
+*To replicate the reported analysis*, authorised access to ABCD data is required. Preprocessing files demonstrate steps necessary to obtain analysis variables from raw data in the 5.1 ABCD release.
 
 #### To trial functionality of main analytical scripts on simulated data
 
@@ -53,7 +55,8 @@ Navigate to /demo, download mock data files and and code scripts, then run code 
 4. Edge-type Analysis - Rich, Feeder and Local connections 
 5. AHBA gene expression x Psychopathology connectivity PLS
 
-Mock datasets, a trained SOM and classifier, and intermediate data processing files are provided to allow functionality of scripts independently.
+Expected demo run time: ~10 minutes. 
+Mock datasets, a trained SOM and classifier, and intermediate data processing files are provided to allow functionality of scripts independently. 
 Note that all data in the demo is was generated randomly from normal/binomial distributions and does not have any affiliation with ABCD data. Participant pseudoidentifiers and associated data do not in any way correspond to real participants.
 
 ### Citation
